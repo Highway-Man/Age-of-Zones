@@ -1,0 +1,2516 @@
+fileFormatVersion: 2
+guid: 152735ad5a52c13428f516204ebd479a
+timeCreated: 1500394591
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: 1.5in Screw:1
+    100002: 1.5in Screw:2
+    100004: 1.5in Screw:3
+    100006: 1.5in Screw:4
+    100008: 1.5in Screw:5
+    100010: 1.5in Screw:6
+    100012: 18 tooth sprocket:1
+    100014: 18 tooth sprocket:2
+    100016: 18 tooth sprocket_MIR:1
+    100018: 18 tooth sprocket_MIR:2
+    100020: 2x10 C-Channel:1
+    100022: 2x10 C-Channel:2
+    100024: 2x10 C-Channel:3
+    100026: 2x10 C-Channel:4
+    100028: 2x10 C-Channel:5
+    100030: 2x15 C-Channel:1
+    100032: 2x15 C-Channel:2
+    100034: 2x15 C-Channel:3
+    100036: 2x15 C-Channel_MIR:1
+    100038: 2x25 C-Channel:1
+    100040: 2x25 C-Channel:2
+    100042: 2x25 C-Channel:3
+    100044: 2x25 C-Channel:4
+    100046: 2x25 C-Channel:5
+    100048: 2x35 Angle:1
+    100050: 2x35 Angle:2
+    100052: 2x35 C-Channel:1
+    100054: 2x35 C-Channel:2
+    100056: 2x35 C-Channel:3
+    100058: 2x35 C-Channel:4
+    100060: 2x35 C-Channel:5
+    100062: 2x35 C-Channel_MIR1:1
+    100064: 2x35 C-Channel_MIR1:2
+    100066: 2x35 C-Channel_MIR1:3
+    100068: 2x35 C-Channel_MIR:1
+    100070: 2x35 C-Channel_MIR:2
+    100072: 3.25 Omni Wheel:1
+    100074: 3.25 Omni Wheel:1 1
+    100076: 3.25 Omni Wheel:1 10
+    100078: 3.25 Omni Wheel:1 11
+    100080: 3.25 Omni Wheel:1 12
+    100082: 3.25 Omni Wheel:1 13
+    100084: 3.25 Omni Wheel:1 14
+    100086: 3.25 Omni Wheel:1 15
+    100088: 3.25 Omni Wheel:1 16
+    100090: 3.25 Omni Wheel:1 17
+    100092: 3.25 Omni Wheel:1 18
+    100094: 3.25 Omni Wheel:1 19
+    100096: 3.25 Omni Wheel:1 2
+    100098: 3.25 Omni Wheel:1 20
+    100100: 3.25 Omni Wheel:1 21
+    100102: 3.25 Omni Wheel:1 22
+    100104: 3.25 Omni Wheel:1 23
+    100106: 3.25 Omni Wheel:1 24
+    100108: 3.25 Omni Wheel:1 25
+    100110: 3.25 Omni Wheel:1 26
+    100112: 3.25 Omni Wheel:1 27
+    100114: 3.25 Omni Wheel:1 28
+    100116: 3.25 Omni Wheel:1 29
+    100118: 3.25 Omni Wheel:1 3
+    100120: 3.25 Omni Wheel:1 30
+    100122: 3.25 Omni Wheel:1 31
+    100124: 3.25 Omni Wheel:1 32
+    100126: 3.25 Omni Wheel:1 33
+    100128: 3.25 Omni Wheel:1 34
+    100130: 3.25 Omni Wheel:1 35
+    100132: 3.25 Omni Wheel:1 36
+    100134: 3.25 Omni Wheel:1 37
+    100136: 3.25 Omni Wheel:1 38
+    100138: 3.25 Omni Wheel:1 39
+    100140: 3.25 Omni Wheel:1 4
+    100142: 3.25 Omni Wheel:1 40
+    100144: 3.25 Omni Wheel:1 41
+    100146: 3.25 Omni Wheel:1 42
+    100148: 3.25 Omni Wheel:1 43
+    100150: 3.25 Omni Wheel:1 44
+    100152: 3.25 Omni Wheel:1 45
+    100154: 3.25 Omni Wheel:1 46
+    100156: 3.25 Omni Wheel:1 47
+    100158: 3.25 Omni Wheel:1 48
+    100160: 3.25 Omni Wheel:1 49
+    100162: 3.25 Omni Wheel:1 5
+    100164: 3.25 Omni Wheel:1 50
+    100166: 3.25 Omni Wheel:1 51
+    100168: 3.25 Omni Wheel:1 52
+    100170: 3.25 Omni Wheel:1 53
+    100172: 3.25 Omni Wheel:1 54
+    100174: 3.25 Omni Wheel:1 55
+    100176: 3.25 Omni Wheel:1 56
+    100178: 3.25 Omni Wheel:1 57
+    100180: 3.25 Omni Wheel:1 58
+    100182: 3.25 Omni Wheel:1 59
+    100184: 3.25 Omni Wheel:1 6
+    100186: 3.25 Omni Wheel:1 60
+    100188: 3.25 Omni Wheel:1 61
+    100190: 3.25 Omni Wheel:1 62
+    100192: 3.25 Omni Wheel:1 63
+    100194: 3.25 Omni Wheel:1 64
+    100196: 3.25 Omni Wheel:1 65
+    100198: 3.25 Omni Wheel:1 66
+    100200: 3.25 Omni Wheel:1 67
+    100202: 3.25 Omni Wheel:1 7
+    100204: 3.25 Omni Wheel:1 8
+    100206: 3.25 Omni Wheel:1 9
+    100208: 3.25 Omni Wheel:2
+    100210: 3.25 Omni Wheel:2 1
+    100212: 3.25 Omni Wheel:2 10
+    100214: 3.25 Omni Wheel:2 11
+    100216: 3.25 Omni Wheel:2 12
+    100218: 3.25 Omni Wheel:2 13
+    100220: 3.25 Omni Wheel:2 14
+    100222: 3.25 Omni Wheel:2 15
+    100224: 3.25 Omni Wheel:2 16
+    100226: 3.25 Omni Wheel:2 17
+    100228: 3.25 Omni Wheel:2 18
+    100230: 3.25 Omni Wheel:2 19
+    100232: 3.25 Omni Wheel:2 2
+    100234: 3.25 Omni Wheel:2 20
+    100236: 3.25 Omni Wheel:2 21
+    100238: 3.25 Omni Wheel:2 22
+    100240: 3.25 Omni Wheel:2 23
+    100242: 3.25 Omni Wheel:2 24
+    100244: 3.25 Omni Wheel:2 25
+    100246: 3.25 Omni Wheel:2 26
+    100248: 3.25 Omni Wheel:2 27
+    100250: 3.25 Omni Wheel:2 28
+    100252: 3.25 Omni Wheel:2 29
+    100254: 3.25 Omni Wheel:2 3
+    100256: 3.25 Omni Wheel:2 30
+    100258: 3.25 Omni Wheel:2 31
+    100260: 3.25 Omni Wheel:2 32
+    100262: 3.25 Omni Wheel:2 33
+    100264: 3.25 Omni Wheel:2 34
+    100266: 3.25 Omni Wheel:2 35
+    100268: 3.25 Omni Wheel:2 36
+    100270: 3.25 Omni Wheel:2 37
+    100272: 3.25 Omni Wheel:2 38
+    100274: 3.25 Omni Wheel:2 39
+    100276: 3.25 Omni Wheel:2 4
+    100278: 3.25 Omni Wheel:2 40
+    100280: 3.25 Omni Wheel:2 41
+    100282: 3.25 Omni Wheel:2 42
+    100284: 3.25 Omni Wheel:2 43
+    100286: 3.25 Omni Wheel:2 44
+    100288: 3.25 Omni Wheel:2 45
+    100290: 3.25 Omni Wheel:2 46
+    100292: 3.25 Omni Wheel:2 47
+    100294: 3.25 Omni Wheel:2 48
+    100296: 3.25 Omni Wheel:2 49
+    100298: 3.25 Omni Wheel:2 5
+    100300: 3.25 Omni Wheel:2 50
+    100302: 3.25 Omni Wheel:2 51
+    100304: 3.25 Omni Wheel:2 52
+    100306: 3.25 Omni Wheel:2 53
+    100308: 3.25 Omni Wheel:2 54
+    100310: 3.25 Omni Wheel:2 55
+    100312: 3.25 Omni Wheel:2 56
+    100314: 3.25 Omni Wheel:2 57
+    100316: 3.25 Omni Wheel:2 58
+    100318: 3.25 Omni Wheel:2 59
+    100320: 3.25 Omni Wheel:2 6
+    100322: 3.25 Omni Wheel:2 60
+    100324: 3.25 Omni Wheel:2 61
+    100326: 3.25 Omni Wheel:2 62
+    100328: 3.25 Omni Wheel:2 63
+    100330: 3.25 Omni Wheel:2 64
+    100332: 3.25 Omni Wheel:2 65
+    100334: 3.25 Omni Wheel:2 66
+    100336: 3.25 Omni Wheel:2 67
+    100338: 3.25 Omni Wheel:2 7
+    100340: 3.25 Omni Wheel:2 8
+    100342: 3.25 Omni Wheel:2 9
+    100344: 3.25 Omni Wheel_MIR:1
+    100346: 3.25 Omni Wheel_MIR:1 1
+    100348: 3.25 Omni Wheel_MIR:1 10
+    100350: 3.25 Omni Wheel_MIR:1 11
+    100352: 3.25 Omni Wheel_MIR:1 12
+    100354: 3.25 Omni Wheel_MIR:1 13
+    100356: 3.25 Omni Wheel_MIR:1 14
+    100358: 3.25 Omni Wheel_MIR:1 15
+    100360: 3.25 Omni Wheel_MIR:1 16
+    100362: 3.25 Omni Wheel_MIR:1 17
+    100364: 3.25 Omni Wheel_MIR:1 18
+    100366: 3.25 Omni Wheel_MIR:1 19
+    100368: 3.25 Omni Wheel_MIR:1 2
+    100370: 3.25 Omni Wheel_MIR:1 20
+    100372: 3.25 Omni Wheel_MIR:1 21
+    100374: 3.25 Omni Wheel_MIR:1 22
+    100376: 3.25 Omni Wheel_MIR:1 23
+    100378: 3.25 Omni Wheel_MIR:1 24
+    100380: 3.25 Omni Wheel_MIR:1 25
+    100382: 3.25 Omni Wheel_MIR:1 26
+    100384: 3.25 Omni Wheel_MIR:1 27
+    100386: 3.25 Omni Wheel_MIR:1 28
+    100388: 3.25 Omni Wheel_MIR:1 29
+    100390: 3.25 Omni Wheel_MIR:1 3
+    100392: 3.25 Omni Wheel_MIR:1 30
+    100394: 3.25 Omni Wheel_MIR:1 31
+    100396: 3.25 Omni Wheel_MIR:1 32
+    100398: 3.25 Omni Wheel_MIR:1 33
+    100400: 3.25 Omni Wheel_MIR:1 34
+    100402: 3.25 Omni Wheel_MIR:1 35
+    100404: 3.25 Omni Wheel_MIR:1 36
+    100406: 3.25 Omni Wheel_MIR:1 37
+    100408: 3.25 Omni Wheel_MIR:1 38
+    100410: 3.25 Omni Wheel_MIR:1 39
+    100412: 3.25 Omni Wheel_MIR:1 4
+    100414: 3.25 Omni Wheel_MIR:1 40
+    100416: 3.25 Omni Wheel_MIR:1 41
+    100418: 3.25 Omni Wheel_MIR:1 42
+    100420: 3.25 Omni Wheel_MIR:1 43
+    100422: 3.25 Omni Wheel_MIR:1 44
+    100424: 3.25 Omni Wheel_MIR:1 45
+    100426: 3.25 Omni Wheel_MIR:1 46
+    100428: 3.25 Omni Wheel_MIR:1 47
+    100430: 3.25 Omni Wheel_MIR:1 48
+    100432: 3.25 Omni Wheel_MIR:1 49
+    100434: 3.25 Omni Wheel_MIR:1 5
+    100436: 3.25 Omni Wheel_MIR:1 50
+    100438: 3.25 Omni Wheel_MIR:1 51
+    100440: 3.25 Omni Wheel_MIR:1 52
+    100442: 3.25 Omni Wheel_MIR:1 53
+    100444: 3.25 Omni Wheel_MIR:1 54
+    100446: 3.25 Omni Wheel_MIR:1 55
+    100448: 3.25 Omni Wheel_MIR:1 56
+    100450: 3.25 Omni Wheel_MIR:1 57
+    100452: 3.25 Omni Wheel_MIR:1 58
+    100454: 3.25 Omni Wheel_MIR:1 59
+    100456: 3.25 Omni Wheel_MIR:1 6
+    100458: 3.25 Omni Wheel_MIR:1 60
+    100460: 3.25 Omni Wheel_MIR:1 61
+    100462: 3.25 Omni Wheel_MIR:1 62
+    100464: 3.25 Omni Wheel_MIR:1 63
+    100466: 3.25 Omni Wheel_MIR:1 64
+    100468: 3.25 Omni Wheel_MIR:1 65
+    100470: 3.25 Omni Wheel_MIR:1 66
+    100472: 3.25 Omni Wheel_MIR:1 67
+    100474: 3.25 Omni Wheel_MIR:1 7
+    100476: 3.25 Omni Wheel_MIR:1 8
+    100478: 3.25 Omni Wheel_MIR:1 9
+    100480: 3.25 Omni Wheel_MIR:2
+    100482: 3.25 Omni Wheel_MIR:2 1
+    100484: 3.25 Omni Wheel_MIR:2 10
+    100486: 3.25 Omni Wheel_MIR:2 11
+    100488: 3.25 Omni Wheel_MIR:2 12
+    100490: 3.25 Omni Wheel_MIR:2 13
+    100492: 3.25 Omni Wheel_MIR:2 14
+    100494: 3.25 Omni Wheel_MIR:2 15
+    100496: 3.25 Omni Wheel_MIR:2 16
+    100498: 3.25 Omni Wheel_MIR:2 17
+    100500: 3.25 Omni Wheel_MIR:2 18
+    100502: 3.25 Omni Wheel_MIR:2 19
+    100504: 3.25 Omni Wheel_MIR:2 2
+    100506: 3.25 Omni Wheel_MIR:2 20
+    100508: 3.25 Omni Wheel_MIR:2 21
+    100510: 3.25 Omni Wheel_MIR:2 22
+    100512: 3.25 Omni Wheel_MIR:2 23
+    100514: 3.25 Omni Wheel_MIR:2 24
+    100516: 3.25 Omni Wheel_MIR:2 25
+    100518: 3.25 Omni Wheel_MIR:2 26
+    100520: 3.25 Omni Wheel_MIR:2 27
+    100522: 3.25 Omni Wheel_MIR:2 28
+    100524: 3.25 Omni Wheel_MIR:2 29
+    100526: 3.25 Omni Wheel_MIR:2 3
+    100528: 3.25 Omni Wheel_MIR:2 30
+    100530: 3.25 Omni Wheel_MIR:2 31
+    100532: 3.25 Omni Wheel_MIR:2 32
+    100534: 3.25 Omni Wheel_MIR:2 33
+    100536: 3.25 Omni Wheel_MIR:2 34
+    100538: 3.25 Omni Wheel_MIR:2 35
+    100540: 3.25 Omni Wheel_MIR:2 36
+    100542: 3.25 Omni Wheel_MIR:2 37
+    100544: 3.25 Omni Wheel_MIR:2 38
+    100546: 3.25 Omni Wheel_MIR:2 39
+    100548: 3.25 Omni Wheel_MIR:2 4
+    100550: 3.25 Omni Wheel_MIR:2 40
+    100552: 3.25 Omni Wheel_MIR:2 41
+    100554: 3.25 Omni Wheel_MIR:2 42
+    100556: 3.25 Omni Wheel_MIR:2 43
+    100558: 3.25 Omni Wheel_MIR:2 44
+    100560: 3.25 Omni Wheel_MIR:2 45
+    100562: 3.25 Omni Wheel_MIR:2 46
+    100564: 3.25 Omni Wheel_MIR:2 47
+    100566: 3.25 Omni Wheel_MIR:2 48
+    100568: 3.25 Omni Wheel_MIR:2 49
+    100570: 3.25 Omni Wheel_MIR:2 5
+    100572: 3.25 Omni Wheel_MIR:2 50
+    100574: 3.25 Omni Wheel_MIR:2 51
+    100576: 3.25 Omni Wheel_MIR:2 52
+    100578: 3.25 Omni Wheel_MIR:2 53
+    100580: 3.25 Omni Wheel_MIR:2 54
+    100582: 3.25 Omni Wheel_MIR:2 55
+    100584: 3.25 Omni Wheel_MIR:2 56
+    100586: 3.25 Omni Wheel_MIR:2 57
+    100588: 3.25 Omni Wheel_MIR:2 58
+    100590: 3.25 Omni Wheel_MIR:2 59
+    100592: 3.25 Omni Wheel_MIR:2 6
+    100594: 3.25 Omni Wheel_MIR:2 60
+    100596: 3.25 Omni Wheel_MIR:2 61
+    100598: 3.25 Omni Wheel_MIR:2 62
+    100600: 3.25 Omni Wheel_MIR:2 63
+    100602: 3.25 Omni Wheel_MIR:2 64
+    100604: 3.25 Omni Wheel_MIR:2 65
+    100606: 3.25 Omni Wheel_MIR:2 66
+    100608: 3.25 Omni Wheel_MIR:2 67
+    100610: 3.25 Omni Wheel_MIR:2 7
+    100612: 3.25 Omni Wheel_MIR:2 8
+    100614: 3.25 Omni Wheel_MIR:2 9
+    100616: 5x10 C-Channel:1
+    100618: 5x10 C-Channel:2
+    100620: 5x15 C-Channel:1
+    100622: 5x35 C-Channel:1
+    100624: 5x35 C-Channel:2
+    100626: BEARING-BLOCK:1
+    100628: BEARING-BLOCK:2
+    100630: BEARING-FLAT:1
+    100632: BEARING-FLAT:10
+    100634: BEARING-FLAT:11
+    100636: BEARING-FLAT:12
+    100638: BEARING-FLAT:13
+    100640: BEARING-FLAT:14
+    100642: BEARING-FLAT:15
+    100644: BEARING-FLAT:16
+    100646: BEARING-FLAT:17
+    100648: BEARING-FLAT:18
+    100650: BEARING-FLAT:19
+    100652: BEARING-FLAT:2
+    100654: BEARING-FLAT:20
+    100656: BEARING-FLAT:21
+    100658: BEARING-FLAT:3
+    100660: BEARING-FLAT:4
+    100662: BEARING-FLAT:5
+    100664: BEARING-FLAT:6
+    100666: BEARING-FLAT:7
+    100668: BEARING-FLAT:8
+    100670: BEARING-FLAT:9
+    100672: BEARING-FLAT_MIR1:1
+    100674: BEARING-FLAT_MIR1:2
+    100676: BEARING-FLAT_MIR1:3
+    100678: BEARING-FLAT_MIR1:4
+    100680: BEARING-FLAT_MIR:1
+    100682: BEARING-FLAT_MIR:2
+    100684: BEARING-FLAT_MIR:3
+    100686: BEARING-FLAT_MIR:4
+    100688: C-Channel Coupler Gusset:1
+    100690: C-Channel Coupler Gusset:2
+    100692: High Strength 12 Tooth Gear:1
+    100694: High Strength 12 Tooth Gear:1 1
+    100696: High Strength 12 Tooth Gear_MIR:1
+    100698: High Strength 12 Tooth Gear_MIR:1 1
+    100700: HS-GEAR-36TOOTH:1
+    100702: HS-GEAR-36TOOTH_MIR:1
+    100704: HS-GEAR-60TOOTH:1
+    100706: HS-GEAR-60TOOTH:2
+    100708: HS-GEAR-84TOOTH:1
+    100710: HS-GEAR-84TOOTH:2
+    100712: HS-GEAR-84TOOTH_MIR:1
+    100714: Motor 393:1
+    100716: Motor 393:1 1
+    100718: Motor 393:1 2
+    100720: Motor 393:1 3
+    100722: Motor 393:2
+    100724: Motor 393:2 1
+    100726: Motor 393:2 2
+    100728: Motor 393:2 3
+    100730: Motor 393:3
+    100732: Motor 393:3 1
+    100734: Motor 393:3 2
+    100736: Motor 393:3 3
+    100738: Motor 393:4
+    100740: Motor 393:4 1
+    100742: Motor 393:4 2
+    100744: Motor 393:4 3
+    100746: Motor 393:5
+    100748: Motor 393:5 1
+    100750: Motor 393:5 2
+    100752: Motor 393:5 3
+    100754: Motor 393:6
+    100756: Motor 393:6 1
+    100758: Motor 393:6 2
+    100760: Motor 393:6 3
+    100762: Motor 393_MIR1:1
+    100764: Motor 393_MIR1:1 1
+    100766: Motor 393_MIR1:1 2
+    100768: Motor 393_MIR1:1 3
+    100770: Motor 393_MIR1:2
+    100772: Motor 393_MIR1:2 1
+    100774: Motor 393_MIR1:2 2
+    100776: Motor 393_MIR1:2 3
+    100778: Motor 393_MIR:1
+    100780: Motor 393_MIR:1 1
+    100782: Motor 393_MIR:1 2
+    100784: Motor 393_MIR:1 3
+    100786: Motor 393_MIR:2
+    100788: Motor 393_MIR:2 1
+    100790: Motor 393_MIR:2 2
+    100792: Motor 393_MIR:2 3
+    100794: OSIZR.iam
+    100796: //RootNode
+    100798: SPACER-0500-0125:1
+    100800: SPACER-0500-0125:2
+    100802: SPACER-0500-0125:3
+    100804: SPACER-0500-0125:4
+    100806: SPACER-0500-0125:5
+    100808: SPACER-0500-0125:6
+    100810: SPACER-0500-0125:7
+    100812: SPACER-0500-0125:8
+    100814: SPACER-0500-0500:1
+    100816: SPACER-0500-0500:2
+    100818: SPACER-0500-0500:3
+    100820: SPACER-0500-0500:4
+    100822: Standoff 2 in:1
+    100824: Standoff 2 in:2
+    100826: VEX-60-TOOTH-GEAR:1
+    100828: VEX-60-TOOTH-GEAR:2
+    100830: VEX-60-TOOTH-GEAR_MIR:1
+    100832: VEX-60-TOOTH-GEAR_MIR:2
+    400000: 1.5in Screw:1
+    400002: 1.5in Screw:2
+    400004: 1.5in Screw:3
+    400006: 1.5in Screw:4
+    400008: 1.5in Screw:5
+    400010: 1.5in Screw:6
+    400012: 18 tooth sprocket:1
+    400014: 18 tooth sprocket:2
+    400016: 18 tooth sprocket_MIR:1
+    400018: 18 tooth sprocket_MIR:2
+    400020: 2x10 C-Channel:1
+    400022: 2x10 C-Channel:2
+    400024: 2x10 C-Channel:3
+    400026: 2x10 C-Channel:4
+    400028: 2x10 C-Channel:5
+    400030: 2x15 C-Channel:1
+    400032: 2x15 C-Channel:2
+    400034: 2x15 C-Channel:3
+    400036: 2x15 C-Channel_MIR:1
+    400038: 2x25 C-Channel:1
+    400040: 2x25 C-Channel:2
+    400042: 2x25 C-Channel:3
+    400044: 2x25 C-Channel:4
+    400046: 2x25 C-Channel:5
+    400048: 2x35 Angle:1
+    400050: 2x35 Angle:2
+    400052: 2x35 C-Channel:1
+    400054: 2x35 C-Channel:2
+    400056: 2x35 C-Channel:3
+    400058: 2x35 C-Channel:4
+    400060: 2x35 C-Channel:5
+    400062: 2x35 C-Channel_MIR1:1
+    400064: 2x35 C-Channel_MIR1:2
+    400066: 2x35 C-Channel_MIR1:3
+    400068: 2x35 C-Channel_MIR:1
+    400070: 2x35 C-Channel_MIR:2
+    400072: 3.25 Omni Wheel:1
+    400074: 3.25 Omni Wheel:1 1
+    400076: 3.25 Omni Wheel:1 10
+    400078: 3.25 Omni Wheel:1 11
+    400080: 3.25 Omni Wheel:1 12
+    400082: 3.25 Omni Wheel:1 13
+    400084: 3.25 Omni Wheel:1 14
+    400086: 3.25 Omni Wheel:1 15
+    400088: 3.25 Omni Wheel:1 16
+    400090: 3.25 Omni Wheel:1 17
+    400092: 3.25 Omni Wheel:1 18
+    400094: 3.25 Omni Wheel:1 19
+    400096: 3.25 Omni Wheel:1 2
+    400098: 3.25 Omni Wheel:1 20
+    400100: 3.25 Omni Wheel:1 21
+    400102: 3.25 Omni Wheel:1 22
+    400104: 3.25 Omni Wheel:1 23
+    400106: 3.25 Omni Wheel:1 24
+    400108: 3.25 Omni Wheel:1 25
+    400110: 3.25 Omni Wheel:1 26
+    400112: 3.25 Omni Wheel:1 27
+    400114: 3.25 Omni Wheel:1 28
+    400116: 3.25 Omni Wheel:1 29
+    400118: 3.25 Omni Wheel:1 3
+    400120: 3.25 Omni Wheel:1 30
+    400122: 3.25 Omni Wheel:1 31
+    400124: 3.25 Omni Wheel:1 32
+    400126: 3.25 Omni Wheel:1 33
+    400128: 3.25 Omni Wheel:1 34
+    400130: 3.25 Omni Wheel:1 35
+    400132: 3.25 Omni Wheel:1 36
+    400134: 3.25 Omni Wheel:1 37
+    400136: 3.25 Omni Wheel:1 38
+    400138: 3.25 Omni Wheel:1 39
+    400140: 3.25 Omni Wheel:1 4
+    400142: 3.25 Omni Wheel:1 40
+    400144: 3.25 Omni Wheel:1 41
+    400146: 3.25 Omni Wheel:1 42
+    400148: 3.25 Omni Wheel:1 43
+    400150: 3.25 Omni Wheel:1 44
+    400152: 3.25 Omni Wheel:1 45
+    400154: 3.25 Omni Wheel:1 46
+    400156: 3.25 Omni Wheel:1 47
+    400158: 3.25 Omni Wheel:1 48
+    400160: 3.25 Omni Wheel:1 49
+    400162: 3.25 Omni Wheel:1 5
+    400164: 3.25 Omni Wheel:1 50
+    400166: 3.25 Omni Wheel:1 51
+    400168: 3.25 Omni Wheel:1 52
+    400170: 3.25 Omni Wheel:1 53
+    400172: 3.25 Omni Wheel:1 54
+    400174: 3.25 Omni Wheel:1 55
+    400176: 3.25 Omni Wheel:1 56
+    400178: 3.25 Omni Wheel:1 57
+    400180: 3.25 Omni Wheel:1 58
+    400182: 3.25 Omni Wheel:1 59
+    400184: 3.25 Omni Wheel:1 6
+    400186: 3.25 Omni Wheel:1 60
+    400188: 3.25 Omni Wheel:1 61
+    400190: 3.25 Omni Wheel:1 62
+    400192: 3.25 Omni Wheel:1 63
+    400194: 3.25 Omni Wheel:1 64
+    400196: 3.25 Omni Wheel:1 65
+    400198: 3.25 Omni Wheel:1 66
+    400200: 3.25 Omni Wheel:1 67
+    400202: 3.25 Omni Wheel:1 7
+    400204: 3.25 Omni Wheel:1 8
+    400206: 3.25 Omni Wheel:1 9
+    400208: 3.25 Omni Wheel:2
+    400210: 3.25 Omni Wheel:2 1
+    400212: 3.25 Omni Wheel:2 10
+    400214: 3.25 Omni Wheel:2 11
+    400216: 3.25 Omni Wheel:2 12
+    400218: 3.25 Omni Wheel:2 13
+    400220: 3.25 Omni Wheel:2 14
+    400222: 3.25 Omni Wheel:2 15
+    400224: 3.25 Omni Wheel:2 16
+    400226: 3.25 Omni Wheel:2 17
+    400228: 3.25 Omni Wheel:2 18
+    400230: 3.25 Omni Wheel:2 19
+    400232: 3.25 Omni Wheel:2 2
+    400234: 3.25 Omni Wheel:2 20
+    400236: 3.25 Omni Wheel:2 21
+    400238: 3.25 Omni Wheel:2 22
+    400240: 3.25 Omni Wheel:2 23
+    400242: 3.25 Omni Wheel:2 24
+    400244: 3.25 Omni Wheel:2 25
+    400246: 3.25 Omni Wheel:2 26
+    400248: 3.25 Omni Wheel:2 27
+    400250: 3.25 Omni Wheel:2 28
+    400252: 3.25 Omni Wheel:2 29
+    400254: 3.25 Omni Wheel:2 3
+    400256: 3.25 Omni Wheel:2 30
+    400258: 3.25 Omni Wheel:2 31
+    400260: 3.25 Omni Wheel:2 32
+    400262: 3.25 Omni Wheel:2 33
+    400264: 3.25 Omni Wheel:2 34
+    400266: 3.25 Omni Wheel:2 35
+    400268: 3.25 Omni Wheel:2 36
+    400270: 3.25 Omni Wheel:2 37
+    400272: 3.25 Omni Wheel:2 38
+    400274: 3.25 Omni Wheel:2 39
+    400276: 3.25 Omni Wheel:2 4
+    400278: 3.25 Omni Wheel:2 40
+    400280: 3.25 Omni Wheel:2 41
+    400282: 3.25 Omni Wheel:2 42
+    400284: 3.25 Omni Wheel:2 43
+    400286: 3.25 Omni Wheel:2 44
+    400288: 3.25 Omni Wheel:2 45
+    400290: 3.25 Omni Wheel:2 46
+    400292: 3.25 Omni Wheel:2 47
+    400294: 3.25 Omni Wheel:2 48
+    400296: 3.25 Omni Wheel:2 49
+    400298: 3.25 Omni Wheel:2 5
+    400300: 3.25 Omni Wheel:2 50
+    400302: 3.25 Omni Wheel:2 51
+    400304: 3.25 Omni Wheel:2 52
+    400306: 3.25 Omni Wheel:2 53
+    400308: 3.25 Omni Wheel:2 54
+    400310: 3.25 Omni Wheel:2 55
+    400312: 3.25 Omni Wheel:2 56
+    400314: 3.25 Omni Wheel:2 57
+    400316: 3.25 Omni Wheel:2 58
+    400318: 3.25 Omni Wheel:2 59
+    400320: 3.25 Omni Wheel:2 6
+    400322: 3.25 Omni Wheel:2 60
+    400324: 3.25 Omni Wheel:2 61
+    400326: 3.25 Omni Wheel:2 62
+    400328: 3.25 Omni Wheel:2 63
+    400330: 3.25 Omni Wheel:2 64
+    400332: 3.25 Omni Wheel:2 65
+    400334: 3.25 Omni Wheel:2 66
+    400336: 3.25 Omni Wheel:2 67
+    400338: 3.25 Omni Wheel:2 7
+    400340: 3.25 Omni Wheel:2 8
+    400342: 3.25 Omni Wheel:2 9
+    400344: 3.25 Omni Wheel_MIR:1
+    400346: 3.25 Omni Wheel_MIR:1 1
+    400348: 3.25 Omni Wheel_MIR:1 10
+    400350: 3.25 Omni Wheel_MIR:1 11
+    400352: 3.25 Omni Wheel_MIR:1 12
+    400354: 3.25 Omni Wheel_MIR:1 13
+    400356: 3.25 Omni Wheel_MIR:1 14
+    400358: 3.25 Omni Wheel_MIR:1 15
+    400360: 3.25 Omni Wheel_MIR:1 16
+    400362: 3.25 Omni Wheel_MIR:1 17
+    400364: 3.25 Omni Wheel_MIR:1 18
+    400366: 3.25 Omni Wheel_MIR:1 19
+    400368: 3.25 Omni Wheel_MIR:1 2
+    400370: 3.25 Omni Wheel_MIR:1 20
+    400372: 3.25 Omni Wheel_MIR:1 21
+    400374: 3.25 Omni Wheel_MIR:1 22
+    400376: 3.25 Omni Wheel_MIR:1 23
+    400378: 3.25 Omni Wheel_MIR:1 24
+    400380: 3.25 Omni Wheel_MIR:1 25
+    400382: 3.25 Omni Wheel_MIR:1 26
+    400384: 3.25 Omni Wheel_MIR:1 27
+    400386: 3.25 Omni Wheel_MIR:1 28
+    400388: 3.25 Omni Wheel_MIR:1 29
+    400390: 3.25 Omni Wheel_MIR:1 3
+    400392: 3.25 Omni Wheel_MIR:1 30
+    400394: 3.25 Omni Wheel_MIR:1 31
+    400396: 3.25 Omni Wheel_MIR:1 32
+    400398: 3.25 Omni Wheel_MIR:1 33
+    400400: 3.25 Omni Wheel_MIR:1 34
+    400402: 3.25 Omni Wheel_MIR:1 35
+    400404: 3.25 Omni Wheel_MIR:1 36
+    400406: 3.25 Omni Wheel_MIR:1 37
+    400408: 3.25 Omni Wheel_MIR:1 38
+    400410: 3.25 Omni Wheel_MIR:1 39
+    400412: 3.25 Omni Wheel_MIR:1 4
+    400414: 3.25 Omni Wheel_MIR:1 40
+    400416: 3.25 Omni Wheel_MIR:1 41
+    400418: 3.25 Omni Wheel_MIR:1 42
+    400420: 3.25 Omni Wheel_MIR:1 43
+    400422: 3.25 Omni Wheel_MIR:1 44
+    400424: 3.25 Omni Wheel_MIR:1 45
+    400426: 3.25 Omni Wheel_MIR:1 46
+    400428: 3.25 Omni Wheel_MIR:1 47
+    400430: 3.25 Omni Wheel_MIR:1 48
+    400432: 3.25 Omni Wheel_MIR:1 49
+    400434: 3.25 Omni Wheel_MIR:1 5
+    400436: 3.25 Omni Wheel_MIR:1 50
+    400438: 3.25 Omni Wheel_MIR:1 51
+    400440: 3.25 Omni Wheel_MIR:1 52
+    400442: 3.25 Omni Wheel_MIR:1 53
+    400444: 3.25 Omni Wheel_MIR:1 54
+    400446: 3.25 Omni Wheel_MIR:1 55
+    400448: 3.25 Omni Wheel_MIR:1 56
+    400450: 3.25 Omni Wheel_MIR:1 57
+    400452: 3.25 Omni Wheel_MIR:1 58
+    400454: 3.25 Omni Wheel_MIR:1 59
+    400456: 3.25 Omni Wheel_MIR:1 6
+    400458: 3.25 Omni Wheel_MIR:1 60
+    400460: 3.25 Omni Wheel_MIR:1 61
+    400462: 3.25 Omni Wheel_MIR:1 62
+    400464: 3.25 Omni Wheel_MIR:1 63
+    400466: 3.25 Omni Wheel_MIR:1 64
+    400468: 3.25 Omni Wheel_MIR:1 65
+    400470: 3.25 Omni Wheel_MIR:1 66
+    400472: 3.25 Omni Wheel_MIR:1 67
+    400474: 3.25 Omni Wheel_MIR:1 7
+    400476: 3.25 Omni Wheel_MIR:1 8
+    400478: 3.25 Omni Wheel_MIR:1 9
+    400480: 3.25 Omni Wheel_MIR:2
+    400482: 3.25 Omni Wheel_MIR:2 1
+    400484: 3.25 Omni Wheel_MIR:2 10
+    400486: 3.25 Omni Wheel_MIR:2 11
+    400488: 3.25 Omni Wheel_MIR:2 12
+    400490: 3.25 Omni Wheel_MIR:2 13
+    400492: 3.25 Omni Wheel_MIR:2 14
+    400494: 3.25 Omni Wheel_MIR:2 15
+    400496: 3.25 Omni Wheel_MIR:2 16
+    400498: 3.25 Omni Wheel_MIR:2 17
+    400500: 3.25 Omni Wheel_MIR:2 18
+    400502: 3.25 Omni Wheel_MIR:2 19
+    400504: 3.25 Omni Wheel_MIR:2 2
+    400506: 3.25 Omni Wheel_MIR:2 20
+    400508: 3.25 Omni Wheel_MIR:2 21
+    400510: 3.25 Omni Wheel_MIR:2 22
+    400512: 3.25 Omni Wheel_MIR:2 23
+    400514: 3.25 Omni Wheel_MIR:2 24
+    400516: 3.25 Omni Wheel_MIR:2 25
+    400518: 3.25 Omni Wheel_MIR:2 26
+    400520: 3.25 Omni Wheel_MIR:2 27
+    400522: 3.25 Omni Wheel_MIR:2 28
+    400524: 3.25 Omni Wheel_MIR:2 29
+    400526: 3.25 Omni Wheel_MIR:2 3
+    400528: 3.25 Omni Wheel_MIR:2 30
+    400530: 3.25 Omni Wheel_MIR:2 31
+    400532: 3.25 Omni Wheel_MIR:2 32
+    400534: 3.25 Omni Wheel_MIR:2 33
+    400536: 3.25 Omni Wheel_MIR:2 34
+    400538: 3.25 Omni Wheel_MIR:2 35
+    400540: 3.25 Omni Wheel_MIR:2 36
+    400542: 3.25 Omni Wheel_MIR:2 37
+    400544: 3.25 Omni Wheel_MIR:2 38
+    400546: 3.25 Omni Wheel_MIR:2 39
+    400548: 3.25 Omni Wheel_MIR:2 4
+    400550: 3.25 Omni Wheel_MIR:2 40
+    400552: 3.25 Omni Wheel_MIR:2 41
+    400554: 3.25 Omni Wheel_MIR:2 42
+    400556: 3.25 Omni Wheel_MIR:2 43
+    400558: 3.25 Omni Wheel_MIR:2 44
+    400560: 3.25 Omni Wheel_MIR:2 45
+    400562: 3.25 Omni Wheel_MIR:2 46
+    400564: 3.25 Omni Wheel_MIR:2 47
+    400566: 3.25 Omni Wheel_MIR:2 48
+    400568: 3.25 Omni Wheel_MIR:2 49
+    400570: 3.25 Omni Wheel_MIR:2 5
+    400572: 3.25 Omni Wheel_MIR:2 50
+    400574: 3.25 Omni Wheel_MIR:2 51
+    400576: 3.25 Omni Wheel_MIR:2 52
+    400578: 3.25 Omni Wheel_MIR:2 53
+    400580: 3.25 Omni Wheel_MIR:2 54
+    400582: 3.25 Omni Wheel_MIR:2 55
+    400584: 3.25 Omni Wheel_MIR:2 56
+    400586: 3.25 Omni Wheel_MIR:2 57
+    400588: 3.25 Omni Wheel_MIR:2 58
+    400590: 3.25 Omni Wheel_MIR:2 59
+    400592: 3.25 Omni Wheel_MIR:2 6
+    400594: 3.25 Omni Wheel_MIR:2 60
+    400596: 3.25 Omni Wheel_MIR:2 61
+    400598: 3.25 Omni Wheel_MIR:2 62
+    400600: 3.25 Omni Wheel_MIR:2 63
+    400602: 3.25 Omni Wheel_MIR:2 64
+    400604: 3.25 Omni Wheel_MIR:2 65
+    400606: 3.25 Omni Wheel_MIR:2 66
+    400608: 3.25 Omni Wheel_MIR:2 67
+    400610: 3.25 Omni Wheel_MIR:2 7
+    400612: 3.25 Omni Wheel_MIR:2 8
+    400614: 3.25 Omni Wheel_MIR:2 9
+    400616: 5x10 C-Channel:1
+    400618: 5x10 C-Channel:2
+    400620: 5x15 C-Channel:1
+    400622: 5x35 C-Channel:1
+    400624: 5x35 C-Channel:2
+    400626: BEARING-BLOCK:1
+    400628: BEARING-BLOCK:2
+    400630: BEARING-FLAT:1
+    400632: BEARING-FLAT:10
+    400634: BEARING-FLAT:11
+    400636: BEARING-FLAT:12
+    400638: BEARING-FLAT:13
+    400640: BEARING-FLAT:14
+    400642: BEARING-FLAT:15
+    400644: BEARING-FLAT:16
+    400646: BEARING-FLAT:17
+    400648: BEARING-FLAT:18
+    400650: BEARING-FLAT:19
+    400652: BEARING-FLAT:2
+    400654: BEARING-FLAT:20
+    400656: BEARING-FLAT:21
+    400658: BEARING-FLAT:3
+    400660: BEARING-FLAT:4
+    400662: BEARING-FLAT:5
+    400664: BEARING-FLAT:6
+    400666: BEARING-FLAT:7
+    400668: BEARING-FLAT:8
+    400670: BEARING-FLAT:9
+    400672: BEARING-FLAT_MIR1:1
+    400674: BEARING-FLAT_MIR1:2
+    400676: BEARING-FLAT_MIR1:3
+    400678: BEARING-FLAT_MIR1:4
+    400680: BEARING-FLAT_MIR:1
+    400682: BEARING-FLAT_MIR:2
+    400684: BEARING-FLAT_MIR:3
+    400686: BEARING-FLAT_MIR:4
+    400688: C-Channel Coupler Gusset:1
+    400690: C-Channel Coupler Gusset:2
+    400692: High Strength 12 Tooth Gear:1
+    400694: High Strength 12 Tooth Gear:1 1
+    400696: High Strength 12 Tooth Gear_MIR:1
+    400698: High Strength 12 Tooth Gear_MIR:1 1
+    400700: HS-GEAR-36TOOTH:1
+    400702: HS-GEAR-36TOOTH_MIR:1
+    400704: HS-GEAR-60TOOTH:1
+    400706: HS-GEAR-60TOOTH:2
+    400708: HS-GEAR-84TOOTH:1
+    400710: HS-GEAR-84TOOTH:2
+    400712: HS-GEAR-84TOOTH_MIR:1
+    400714: Motor 393:1
+    400716: Motor 393:1 1
+    400718: Motor 393:1 2
+    400720: Motor 393:1 3
+    400722: Motor 393:2
+    400724: Motor 393:2 1
+    400726: Motor 393:2 2
+    400728: Motor 393:2 3
+    400730: Motor 393:3
+    400732: Motor 393:3 1
+    400734: Motor 393:3 2
+    400736: Motor 393:3 3
+    400738: Motor 393:4
+    400740: Motor 393:4 1
+    400742: Motor 393:4 2
+    400744: Motor 393:4 3
+    400746: Motor 393:5
+    400748: Motor 393:5 1
+    400750: Motor 393:5 2
+    400752: Motor 393:5 3
+    400754: Motor 393:6
+    400756: Motor 393:6 1
+    400758: Motor 393:6 2
+    400760: Motor 393:6 3
+    400762: Motor 393_MIR1:1
+    400764: Motor 393_MIR1:1 1
+    400766: Motor 393_MIR1:1 2
+    400768: Motor 393_MIR1:1 3
+    400770: Motor 393_MIR1:2
+    400772: Motor 393_MIR1:2 1
+    400774: Motor 393_MIR1:2 2
+    400776: Motor 393_MIR1:2 3
+    400778: Motor 393_MIR:1
+    400780: Motor 393_MIR:1 1
+    400782: Motor 393_MIR:1 2
+    400784: Motor 393_MIR:1 3
+    400786: Motor 393_MIR:2
+    400788: Motor 393_MIR:2 1
+    400790: Motor 393_MIR:2 2
+    400792: Motor 393_MIR:2 3
+    400794: OSIZR.iam
+    400796: //RootNode
+    400798: SPACER-0500-0125:1
+    400800: SPACER-0500-0125:2
+    400802: SPACER-0500-0125:3
+    400804: SPACER-0500-0125:4
+    400806: SPACER-0500-0125:5
+    400808: SPACER-0500-0125:6
+    400810: SPACER-0500-0125:7
+    400812: SPACER-0500-0125:8
+    400814: SPACER-0500-0500:1
+    400816: SPACER-0500-0500:2
+    400818: SPACER-0500-0500:3
+    400820: SPACER-0500-0500:4
+    400822: Standoff 2 in:1
+    400824: Standoff 2 in:2
+    400826: VEX-60-TOOTH-GEAR:1
+    400828: VEX-60-TOOTH-GEAR:2
+    400830: VEX-60-TOOTH-GEAR_MIR:1
+    400832: VEX-60-TOOTH-GEAR_MIR:2
+    2300000: 1.5in Screw:1
+    2300002: 1.5in Screw:2
+    2300004: 1.5in Screw:3
+    2300006: 1.5in Screw:4
+    2300008: 1.5in Screw:5
+    2300010: 1.5in Screw:6
+    2300012: 18 tooth sprocket:1
+    2300014: 18 tooth sprocket:2
+    2300016: 18 tooth sprocket_MIR:1
+    2300018: 18 tooth sprocket_MIR:2
+    2300020: 2x10 C-Channel:1
+    2300022: 2x10 C-Channel:2
+    2300024: 2x10 C-Channel:3
+    2300026: 2x10 C-Channel:4
+    2300028: 2x10 C-Channel:5
+    2300030: 2x15 C-Channel:1
+    2300032: 2x15 C-Channel:2
+    2300034: 2x15 C-Channel:3
+    2300036: 2x15 C-Channel_MIR:1
+    2300038: 2x25 C-Channel:1
+    2300040: 2x25 C-Channel:2
+    2300042: 2x25 C-Channel:3
+    2300044: 2x25 C-Channel:4
+    2300046: 2x25 C-Channel:5
+    2300048: 2x35 Angle:1
+    2300050: 2x35 Angle:2
+    2300052: 2x35 C-Channel:1
+    2300054: 2x35 C-Channel:2
+    2300056: 2x35 C-Channel:3
+    2300058: 2x35 C-Channel:4
+    2300060: 2x35 C-Channel:5
+    2300062: 2x35 C-Channel_MIR1:1
+    2300064: 2x35 C-Channel_MIR1:2
+    2300066: 2x35 C-Channel_MIR1:3
+    2300068: 2x35 C-Channel_MIR:1
+    2300070: 2x35 C-Channel_MIR:2
+    2300072: 3.25 Omni Wheel:1 1
+    2300074: 3.25 Omni Wheel:1 10
+    2300076: 3.25 Omni Wheel:1 11
+    2300078: 3.25 Omni Wheel:1 12
+    2300080: 3.25 Omni Wheel:1 13
+    2300082: 3.25 Omni Wheel:1 14
+    2300084: 3.25 Omni Wheel:1 15
+    2300086: 3.25 Omni Wheel:1 16
+    2300088: 3.25 Omni Wheel:1 17
+    2300090: 3.25 Omni Wheel:1 18
+    2300092: 3.25 Omni Wheel:1 19
+    2300094: 3.25 Omni Wheel:1 2
+    2300096: 3.25 Omni Wheel:1 20
+    2300098: 3.25 Omni Wheel:1 21
+    2300100: 3.25 Omni Wheel:1 22
+    2300102: 3.25 Omni Wheel:1 23
+    2300104: 3.25 Omni Wheel:1 24
+    2300106: 3.25 Omni Wheel:1 25
+    2300108: 3.25 Omni Wheel:1 26
+    2300110: 3.25 Omni Wheel:1 27
+    2300112: 3.25 Omni Wheel:1 28
+    2300114: 3.25 Omni Wheel:1 29
+    2300116: 3.25 Omni Wheel:1 3
+    2300118: 3.25 Omni Wheel:1 30
+    2300120: 3.25 Omni Wheel:1 31
+    2300122: 3.25 Omni Wheel:1 32
+    2300124: 3.25 Omni Wheel:1 33
+    2300126: 3.25 Omni Wheel:1 34
+    2300128: 3.25 Omni Wheel:1 35
+    2300130: 3.25 Omni Wheel:1 36
+    2300132: 3.25 Omni Wheel:1 37
+    2300134: 3.25 Omni Wheel:1 38
+    2300136: 3.25 Omni Wheel:1 39
+    2300138: 3.25 Omni Wheel:1 4
+    2300140: 3.25 Omni Wheel:1 40
+    2300142: 3.25 Omni Wheel:1 41
+    2300144: 3.25 Omni Wheel:1 42
+    2300146: 3.25 Omni Wheel:1 43
+    2300148: 3.25 Omni Wheel:1 44
+    2300150: 3.25 Omni Wheel:1 45
+    2300152: 3.25 Omni Wheel:1 46
+    2300154: 3.25 Omni Wheel:1 47
+    2300156: 3.25 Omni Wheel:1 48
+    2300158: 3.25 Omni Wheel:1 49
+    2300160: 3.25 Omni Wheel:1 5
+    2300162: 3.25 Omni Wheel:1 50
+    2300164: 3.25 Omni Wheel:1 51
+    2300166: 3.25 Omni Wheel:1 52
+    2300168: 3.25 Omni Wheel:1 53
+    2300170: 3.25 Omni Wheel:1 54
+    2300172: 3.25 Omni Wheel:1 55
+    2300174: 3.25 Omni Wheel:1 56
+    2300176: 3.25 Omni Wheel:1 57
+    2300178: 3.25 Omni Wheel:1 58
+    2300180: 3.25 Omni Wheel:1 59
+    2300182: 3.25 Omni Wheel:1 6
+    2300184: 3.25 Omni Wheel:1 60
+    2300186: 3.25 Omni Wheel:1 61
+    2300188: 3.25 Omni Wheel:1 62
+    2300190: 3.25 Omni Wheel:1 63
+    2300192: 3.25 Omni Wheel:1 64
+    2300194: 3.25 Omni Wheel:1 65
+    2300196: 3.25 Omni Wheel:1 66
+    2300198: 3.25 Omni Wheel:1 67
+    2300200: 3.25 Omni Wheel:1 7
+    2300202: 3.25 Omni Wheel:1 8
+    2300204: 3.25 Omni Wheel:1 9
+    2300206: 3.25 Omni Wheel:2 1
+    2300208: 3.25 Omni Wheel:2 10
+    2300210: 3.25 Omni Wheel:2 11
+    2300212: 3.25 Omni Wheel:2 12
+    2300214: 3.25 Omni Wheel:2 13
+    2300216: 3.25 Omni Wheel:2 14
+    2300218: 3.25 Omni Wheel:2 15
+    2300220: 3.25 Omni Wheel:2 16
+    2300222: 3.25 Omni Wheel:2 17
+    2300224: 3.25 Omni Wheel:2 18
+    2300226: 3.25 Omni Wheel:2 19
+    2300228: 3.25 Omni Wheel:2 2
+    2300230: 3.25 Omni Wheel:2 20
+    2300232: 3.25 Omni Wheel:2 21
+    2300234: 3.25 Omni Wheel:2 22
+    2300236: 3.25 Omni Wheel:2 23
+    2300238: 3.25 Omni Wheel:2 24
+    2300240: 3.25 Omni Wheel:2 25
+    2300242: 3.25 Omni Wheel:2 26
+    2300244: 3.25 Omni Wheel:2 27
+    2300246: 3.25 Omni Wheel:2 28
+    2300248: 3.25 Omni Wheel:2 29
+    2300250: 3.25 Omni Wheel:2 3
+    2300252: 3.25 Omni Wheel:2 30
+    2300254: 3.25 Omni Wheel:2 31
+    2300256: 3.25 Omni Wheel:2 32
+    2300258: 3.25 Omni Wheel:2 33
+    2300260: 3.25 Omni Wheel:2 34
+    2300262: 3.25 Omni Wheel:2 35
+    2300264: 3.25 Omni Wheel:2 36
+    2300266: 3.25 Omni Wheel:2 37
+    2300268: 3.25 Omni Wheel:2 38
+    2300270: 3.25 Omni Wheel:2 39
+    2300272: 3.25 Omni Wheel:2 4
+    2300274: 3.25 Omni Wheel:2 40
+    2300276: 3.25 Omni Wheel:2 41
+    2300278: 3.25 Omni Wheel:2 42
+    2300280: 3.25 Omni Wheel:2 43
+    2300282: 3.25 Omni Wheel:2 44
+    2300284: 3.25 Omni Wheel:2 45
+    2300286: 3.25 Omni Wheel:2 46
+    2300288: 3.25 Omni Wheel:2 47
+    2300290: 3.25 Omni Wheel:2 48
+    2300292: 3.25 Omni Wheel:2 49
+    2300294: 3.25 Omni Wheel:2 5
+    2300296: 3.25 Omni Wheel:2 50
+    2300298: 3.25 Omni Wheel:2 51
+    2300300: 3.25 Omni Wheel:2 52
+    2300302: 3.25 Omni Wheel:2 53
+    2300304: 3.25 Omni Wheel:2 54
+    2300306: 3.25 Omni Wheel:2 55
+    2300308: 3.25 Omni Wheel:2 56
+    2300310: 3.25 Omni Wheel:2 57
+    2300312: 3.25 Omni Wheel:2 58
+    2300314: 3.25 Omni Wheel:2 59
+    2300316: 3.25 Omni Wheel:2 6
+    2300318: 3.25 Omni Wheel:2 60
+    2300320: 3.25 Omni Wheel:2 61
+    2300322: 3.25 Omni Wheel:2 62
+    2300324: 3.25 Omni Wheel:2 63
+    2300326: 3.25 Omni Wheel:2 64
+    2300328: 3.25 Omni Wheel:2 65
+    2300330: 3.25 Omni Wheel:2 66
+    2300332: 3.25 Omni Wheel:2 67
+    2300334: 3.25 Omni Wheel:2 7
+    2300336: 3.25 Omni Wheel:2 8
+    2300338: 3.25 Omni Wheel:2 9
+    2300340: 3.25 Omni Wheel_MIR:1 1
+    2300342: 3.25 Omni Wheel_MIR:1 10
+    2300344: 3.25 Omni Wheel_MIR:1 11
+    2300346: 3.25 Omni Wheel_MIR:1 12
+    2300348: 3.25 Omni Wheel_MIR:1 13
+    2300350: 3.25 Omni Wheel_MIR:1 14
+    2300352: 3.25 Omni Wheel_MIR:1 15
+    2300354: 3.25 Omni Wheel_MIR:1 16
+    2300356: 3.25 Omni Wheel_MIR:1 17
+    2300358: 3.25 Omni Wheel_MIR:1 18
+    2300360: 3.25 Omni Wheel_MIR:1 19
+    2300362: 3.25 Omni Wheel_MIR:1 2
+    2300364: 3.25 Omni Wheel_MIR:1 20
+    2300366: 3.25 Omni Wheel_MIR:1 21
+    2300368: 3.25 Omni Wheel_MIR:1 22
+    2300370: 3.25 Omni Wheel_MIR:1 23
+    2300372: 3.25 Omni Wheel_MIR:1 24
+    2300374: 3.25 Omni Wheel_MIR:1 25
+    2300376: 3.25 Omni Wheel_MIR:1 26
+    2300378: 3.25 Omni Wheel_MIR:1 27
+    2300380: 3.25 Omni Wheel_MIR:1 28
+    2300382: 3.25 Omni Wheel_MIR:1 29
+    2300384: 3.25 Omni Wheel_MIR:1 3
+    2300386: 3.25 Omni Wheel_MIR:1 30
+    2300388: 3.25 Omni Wheel_MIR:1 31
+    2300390: 3.25 Omni Wheel_MIR:1 32
+    2300392: 3.25 Omni Wheel_MIR:1 33
+    2300394: 3.25 Omni Wheel_MIR:1 34
+    2300396: 3.25 Omni Wheel_MIR:1 35
+    2300398: 3.25 Omni Wheel_MIR:1 36
+    2300400: 3.25 Omni Wheel_MIR:1 37
+    2300402: 3.25 Omni Wheel_MIR:1 38
+    2300404: 3.25 Omni Wheel_MIR:1 39
+    2300406: 3.25 Omni Wheel_MIR:1 4
+    2300408: 3.25 Omni Wheel_MIR:1 40
+    2300410: 3.25 Omni Wheel_MIR:1 41
+    2300412: 3.25 Omni Wheel_MIR:1 42
+    2300414: 3.25 Omni Wheel_MIR:1 43
+    2300416: 3.25 Omni Wheel_MIR:1 44
+    2300418: 3.25 Omni Wheel_MIR:1 45
+    2300420: 3.25 Omni Wheel_MIR:1 46
+    2300422: 3.25 Omni Wheel_MIR:1 47
+    2300424: 3.25 Omni Wheel_MIR:1 48
+    2300426: 3.25 Omni Wheel_MIR:1 49
+    2300428: 3.25 Omni Wheel_MIR:1 5
+    2300430: 3.25 Omni Wheel_MIR:1 50
+    2300432: 3.25 Omni Wheel_MIR:1 51
+    2300434: 3.25 Omni Wheel_MIR:1 52
+    2300436: 3.25 Omni Wheel_MIR:1 53
+    2300438: 3.25 Omni Wheel_MIR:1 54
+    2300440: 3.25 Omni Wheel_MIR:1 55
+    2300442: 3.25 Omni Wheel_MIR:1 56
+    2300444: 3.25 Omni Wheel_MIR:1 57
+    2300446: 3.25 Omni Wheel_MIR:1 58
+    2300448: 3.25 Omni Wheel_MIR:1 59
+    2300450: 3.25 Omni Wheel_MIR:1 6
+    2300452: 3.25 Omni Wheel_MIR:1 60
+    2300454: 3.25 Omni Wheel_MIR:1 61
+    2300456: 3.25 Omni Wheel_MIR:1 62
+    2300458: 3.25 Omni Wheel_MIR:1 63
+    2300460: 3.25 Omni Wheel_MIR:1 64
+    2300462: 3.25 Omni Wheel_MIR:1 65
+    2300464: 3.25 Omni Wheel_MIR:1 66
+    2300466: 3.25 Omni Wheel_MIR:1 67
+    2300468: 3.25 Omni Wheel_MIR:1 7
+    2300470: 3.25 Omni Wheel_MIR:1 8
+    2300472: 3.25 Omni Wheel_MIR:1 9
+    2300474: 3.25 Omni Wheel_MIR:2 1
+    2300476: 3.25 Omni Wheel_MIR:2 10
+    2300478: 3.25 Omni Wheel_MIR:2 11
+    2300480: 3.25 Omni Wheel_MIR:2 12
+    2300482: 3.25 Omni Wheel_MIR:2 13
+    2300484: 3.25 Omni Wheel_MIR:2 14
+    2300486: 3.25 Omni Wheel_MIR:2 15
+    2300488: 3.25 Omni Wheel_MIR:2 16
+    2300490: 3.25 Omni Wheel_MIR:2 17
+    2300492: 3.25 Omni Wheel_MIR:2 18
+    2300494: 3.25 Omni Wheel_MIR:2 19
+    2300496: 3.25 Omni Wheel_MIR:2 2
+    2300498: 3.25 Omni Wheel_MIR:2 20
+    2300500: 3.25 Omni Wheel_MIR:2 21
+    2300502: 3.25 Omni Wheel_MIR:2 22
+    2300504: 3.25 Omni Wheel_MIR:2 23
+    2300506: 3.25 Omni Wheel_MIR:2 24
+    2300508: 3.25 Omni Wheel_MIR:2 25
+    2300510: 3.25 Omni Wheel_MIR:2 26
+    2300512: 3.25 Omni Wheel_MIR:2 27
+    2300514: 3.25 Omni Wheel_MIR:2 28
+    2300516: 3.25 Omni Wheel_MIR:2 29
+    2300518: 3.25 Omni Wheel_MIR:2 3
+    2300520: 3.25 Omni Wheel_MIR:2 30
+    2300522: 3.25 Omni Wheel_MIR:2 31
+    2300524: 3.25 Omni Wheel_MIR:2 32
+    2300526: 3.25 Omni Wheel_MIR:2 33
+    2300528: 3.25 Omni Wheel_MIR:2 34
+    2300530: 3.25 Omni Wheel_MIR:2 35
+    2300532: 3.25 Omni Wheel_MIR:2 36
+    2300534: 3.25 Omni Wheel_MIR:2 37
+    2300536: 3.25 Omni Wheel_MIR:2 38
+    2300538: 3.25 Omni Wheel_MIR:2 39
+    2300540: 3.25 Omni Wheel_MIR:2 4
+    2300542: 3.25 Omni Wheel_MIR:2 40
+    2300544: 3.25 Omni Wheel_MIR:2 41
+    2300546: 3.25 Omni Wheel_MIR:2 42
+    2300548: 3.25 Omni Wheel_MIR:2 43
+    2300550: 3.25 Omni Wheel_MIR:2 44
+    2300552: 3.25 Omni Wheel_MIR:2 45
+    2300554: 3.25 Omni Wheel_MIR:2 46
+    2300556: 3.25 Omni Wheel_MIR:2 47
+    2300558: 3.25 Omni Wheel_MIR:2 48
+    2300560: 3.25 Omni Wheel_MIR:2 49
+    2300562: 3.25 Omni Wheel_MIR:2 5
+    2300564: 3.25 Omni Wheel_MIR:2 50
+    2300566: 3.25 Omni Wheel_MIR:2 51
+    2300568: 3.25 Omni Wheel_MIR:2 52
+    2300570: 3.25 Omni Wheel_MIR:2 53
+    2300572: 3.25 Omni Wheel_MIR:2 54
+    2300574: 3.25 Omni Wheel_MIR:2 55
+    2300576: 3.25 Omni Wheel_MIR:2 56
+    2300578: 3.25 Omni Wheel_MIR:2 57
+    2300580: 3.25 Omni Wheel_MIR:2 58
+    2300582: 3.25 Omni Wheel_MIR:2 59
+    2300584: 3.25 Omni Wheel_MIR:2 6
+    2300586: 3.25 Omni Wheel_MIR:2 60
+    2300588: 3.25 Omni Wheel_MIR:2 61
+    2300590: 3.25 Omni Wheel_MIR:2 62
+    2300592: 3.25 Omni Wheel_MIR:2 63
+    2300594: 3.25 Omni Wheel_MIR:2 64
+    2300596: 3.25 Omni Wheel_MIR:2 65
+    2300598: 3.25 Omni Wheel_MIR:2 66
+    2300600: 3.25 Omni Wheel_MIR:2 67
+    2300602: 3.25 Omni Wheel_MIR:2 7
+    2300604: 3.25 Omni Wheel_MIR:2 8
+    2300606: 3.25 Omni Wheel_MIR:2 9
+    2300608: 5x10 C-Channel:1
+    2300610: 5x10 C-Channel:2
+    2300612: 5x15 C-Channel:1
+    2300614: 5x35 C-Channel:1
+    2300616: 5x35 C-Channel:2
+    2300618: BEARING-BLOCK:1
+    2300620: BEARING-BLOCK:2
+    2300622: BEARING-FLAT:1
+    2300624: BEARING-FLAT:10
+    2300626: BEARING-FLAT:11
+    2300628: BEARING-FLAT:12
+    2300630: BEARING-FLAT:13
+    2300632: BEARING-FLAT:14
+    2300634: BEARING-FLAT:15
+    2300636: BEARING-FLAT:16
+    2300638: BEARING-FLAT:17
+    2300640: BEARING-FLAT:18
+    2300642: BEARING-FLAT:19
+    2300644: BEARING-FLAT:2
+    2300646: BEARING-FLAT:20
+    2300648: BEARING-FLAT:21
+    2300650: BEARING-FLAT:3
+    2300652: BEARING-FLAT:4
+    2300654: BEARING-FLAT:5
+    2300656: BEARING-FLAT:6
+    2300658: BEARING-FLAT:7
+    2300660: BEARING-FLAT:8
+    2300662: BEARING-FLAT:9
+    2300664: BEARING-FLAT_MIR1:1
+    2300666: BEARING-FLAT_MIR1:2
+    2300668: BEARING-FLAT_MIR1:3
+    2300670: BEARING-FLAT_MIR1:4
+    2300672: BEARING-FLAT_MIR:1
+    2300674: BEARING-FLAT_MIR:2
+    2300676: BEARING-FLAT_MIR:3
+    2300678: BEARING-FLAT_MIR:4
+    2300680: C-Channel Coupler Gusset:1
+    2300682: C-Channel Coupler Gusset:2
+    2300684: High Strength 12 Tooth Gear:1
+    2300686: High Strength 12 Tooth Gear:1 1
+    2300688: High Strength 12 Tooth Gear_MIR:1
+    2300690: High Strength 12 Tooth Gear_MIR:1 1
+    2300692: HS-GEAR-36TOOTH:1
+    2300694: HS-GEAR-36TOOTH_MIR:1
+    2300696: HS-GEAR-60TOOTH:1
+    2300698: HS-GEAR-60TOOTH:2
+    2300700: HS-GEAR-84TOOTH:1
+    2300702: HS-GEAR-84TOOTH:2
+    2300704: HS-GEAR-84TOOTH_MIR:1
+    2300706: Motor 393:1 1
+    2300708: Motor 393:1 2
+    2300710: Motor 393:1 3
+    2300712: Motor 393:2 1
+    2300714: Motor 393:2 2
+    2300716: Motor 393:2 3
+    2300718: Motor 393:3 1
+    2300720: Motor 393:3 2
+    2300722: Motor 393:3 3
+    2300724: Motor 393:4 1
+    2300726: Motor 393:4 2
+    2300728: Motor 393:4 3
+    2300730: Motor 393:5 1
+    2300732: Motor 393:5 2
+    2300734: Motor 393:5 3
+    2300736: Motor 393:6 1
+    2300738: Motor 393:6 2
+    2300740: Motor 393:6 3
+    2300742: Motor 393_MIR1:1 1
+    2300744: Motor 393_MIR1:1 2
+    2300746: Motor 393_MIR1:1 3
+    2300748: Motor 393_MIR1:2 1
+    2300750: Motor 393_MIR1:2 2
+    2300752: Motor 393_MIR1:2 3
+    2300754: Motor 393_MIR:1 1
+    2300756: Motor 393_MIR:1 2
+    2300758: Motor 393_MIR:1 3
+    2300760: Motor 393_MIR:2 1
+    2300762: Motor 393_MIR:2 2
+    2300764: Motor 393_MIR:2 3
+    2300766: SPACER-0500-0125:1
+    2300768: SPACER-0500-0125:2
+    2300770: SPACER-0500-0125:3
+    2300772: SPACER-0500-0125:4
+    2300774: SPACER-0500-0125:5
+    2300776: SPACER-0500-0125:6
+    2300778: SPACER-0500-0125:7
+    2300780: SPACER-0500-0125:8
+    2300782: SPACER-0500-0500:1
+    2300784: SPACER-0500-0500:2
+    2300786: SPACER-0500-0500:3
+    2300788: SPACER-0500-0500:4
+    2300790: Standoff 2 in:1
+    2300792: Standoff 2 in:2
+    2300794: VEX-60-TOOTH-GEAR:1
+    2300796: VEX-60-TOOTH-GEAR:2
+    2300798: VEX-60-TOOTH-GEAR_MIR:1
+    2300800: VEX-60-TOOTH-GEAR_MIR:2
+    3300000: 1.5in Screw:1
+    3300002: 1.5in Screw:2
+    3300004: 1.5in Screw:3
+    3300006: 1.5in Screw:4
+    3300008: 1.5in Screw:5
+    3300010: 1.5in Screw:6
+    3300012: 18 tooth sprocket:1
+    3300014: 18 tooth sprocket:2
+    3300016: 18 tooth sprocket_MIR:1
+    3300018: 18 tooth sprocket_MIR:2
+    3300020: 2x10 C-Channel:1
+    3300022: 2x10 C-Channel:2
+    3300024: 2x10 C-Channel:3
+    3300026: 2x10 C-Channel:4
+    3300028: 2x10 C-Channel:5
+    3300030: 2x15 C-Channel:1
+    3300032: 2x15 C-Channel:2
+    3300034: 2x15 C-Channel:3
+    3300036: 2x15 C-Channel_MIR:1
+    3300038: 2x25 C-Channel:1
+    3300040: 2x25 C-Channel:2
+    3300042: 2x25 C-Channel:3
+    3300044: 2x25 C-Channel:4
+    3300046: 2x25 C-Channel:5
+    3300048: 2x35 Angle:1
+    3300050: 2x35 Angle:2
+    3300052: 2x35 C-Channel:1
+    3300054: 2x35 C-Channel:2
+    3300056: 2x35 C-Channel:3
+    3300058: 2x35 C-Channel:4
+    3300060: 2x35 C-Channel:5
+    3300062: 2x35 C-Channel_MIR1:1
+    3300064: 2x35 C-Channel_MIR1:2
+    3300066: 2x35 C-Channel_MIR1:3
+    3300068: 2x35 C-Channel_MIR:1
+    3300070: 2x35 C-Channel_MIR:2
+    3300072: 3.25 Omni Wheel:1 1
+    3300074: 3.25 Omni Wheel:1 10
+    3300076: 3.25 Omni Wheel:1 11
+    3300078: 3.25 Omni Wheel:1 12
+    3300080: 3.25 Omni Wheel:1 13
+    3300082: 3.25 Omni Wheel:1 14
+    3300084: 3.25 Omni Wheel:1 15
+    3300086: 3.25 Omni Wheel:1 16
+    3300088: 3.25 Omni Wheel:1 17
+    3300090: 3.25 Omni Wheel:1 18
+    3300092: 3.25 Omni Wheel:1 19
+    3300094: 3.25 Omni Wheel:1 2
+    3300096: 3.25 Omni Wheel:1 20
+    3300098: 3.25 Omni Wheel:1 21
+    3300100: 3.25 Omni Wheel:1 22
+    3300102: 3.25 Omni Wheel:1 23
+    3300104: 3.25 Omni Wheel:1 24
+    3300106: 3.25 Omni Wheel:1 25
+    3300108: 3.25 Omni Wheel:1 26
+    3300110: 3.25 Omni Wheel:1 27
+    3300112: 3.25 Omni Wheel:1 28
+    3300114: 3.25 Omni Wheel:1 29
+    3300116: 3.25 Omni Wheel:1 3
+    3300118: 3.25 Omni Wheel:1 30
+    3300120: 3.25 Omni Wheel:1 31
+    3300122: 3.25 Omni Wheel:1 32
+    3300124: 3.25 Omni Wheel:1 33
+    3300126: 3.25 Omni Wheel:1 34
+    3300128: 3.25 Omni Wheel:1 35
+    3300130: 3.25 Omni Wheel:1 36
+    3300132: 3.25 Omni Wheel:1 37
+    3300134: 3.25 Omni Wheel:1 38
+    3300136: 3.25 Omni Wheel:1 39
+    3300138: 3.25 Omni Wheel:1 4
+    3300140: 3.25 Omni Wheel:1 40
+    3300142: 3.25 Omni Wheel:1 41
+    3300144: 3.25 Omni Wheel:1 42
+    3300146: 3.25 Omni Wheel:1 43
+    3300148: 3.25 Omni Wheel:1 44
+    3300150: 3.25 Omni Wheel:1 45
+    3300152: 3.25 Omni Wheel:1 46
+    3300154: 3.25 Omni Wheel:1 47
+    3300156: 3.25 Omni Wheel:1 48
+    3300158: 3.25 Omni Wheel:1 49
+    3300160: 3.25 Omni Wheel:1 5
+    3300162: 3.25 Omni Wheel:1 50
+    3300164: 3.25 Omni Wheel:1 51
+    3300166: 3.25 Omni Wheel:1 52
+    3300168: 3.25 Omni Wheel:1 53
+    3300170: 3.25 Omni Wheel:1 54
+    3300172: 3.25 Omni Wheel:1 55
+    3300174: 3.25 Omni Wheel:1 56
+    3300176: 3.25 Omni Wheel:1 57
+    3300178: 3.25 Omni Wheel:1 58
+    3300180: 3.25 Omni Wheel:1 59
+    3300182: 3.25 Omni Wheel:1 6
+    3300184: 3.25 Omni Wheel:1 60
+    3300186: 3.25 Omni Wheel:1 61
+    3300188: 3.25 Omni Wheel:1 62
+    3300190: 3.25 Omni Wheel:1 63
+    3300192: 3.25 Omni Wheel:1 64
+    3300194: 3.25 Omni Wheel:1 65
+    3300196: 3.25 Omni Wheel:1 66
+    3300198: 3.25 Omni Wheel:1 67
+    3300200: 3.25 Omni Wheel:1 7
+    3300202: 3.25 Omni Wheel:1 8
+    3300204: 3.25 Omni Wheel:1 9
+    3300206: 3.25 Omni Wheel:2 1
+    3300208: 3.25 Omni Wheel:2 10
+    3300210: 3.25 Omni Wheel:2 11
+    3300212: 3.25 Omni Wheel:2 12
+    3300214: 3.25 Omni Wheel:2 13
+    3300216: 3.25 Omni Wheel:2 14
+    3300218: 3.25 Omni Wheel:2 15
+    3300220: 3.25 Omni Wheel:2 16
+    3300222: 3.25 Omni Wheel:2 17
+    3300224: 3.25 Omni Wheel:2 18
+    3300226: 3.25 Omni Wheel:2 19
+    3300228: 3.25 Omni Wheel:2 2
+    3300230: 3.25 Omni Wheel:2 20
+    3300232: 3.25 Omni Wheel:2 21
+    3300234: 3.25 Omni Wheel:2 22
+    3300236: 3.25 Omni Wheel:2 23
+    3300238: 3.25 Omni Wheel:2 24
+    3300240: 3.25 Omni Wheel:2 25
+    3300242: 3.25 Omni Wheel:2 26
+    3300244: 3.25 Omni Wheel:2 27
+    3300246: 3.25 Omni Wheel:2 28
+    3300248: 3.25 Omni Wheel:2 29
+    3300250: 3.25 Omni Wheel:2 3
+    3300252: 3.25 Omni Wheel:2 30
+    3300254: 3.25 Omni Wheel:2 31
+    3300256: 3.25 Omni Wheel:2 32
+    3300258: 3.25 Omni Wheel:2 33
+    3300260: 3.25 Omni Wheel:2 34
+    3300262: 3.25 Omni Wheel:2 35
+    3300264: 3.25 Omni Wheel:2 36
+    3300266: 3.25 Omni Wheel:2 37
+    3300268: 3.25 Omni Wheel:2 38
+    3300270: 3.25 Omni Wheel:2 39
+    3300272: 3.25 Omni Wheel:2 4
+    3300274: 3.25 Omni Wheel:2 40
+    3300276: 3.25 Omni Wheel:2 41
+    3300278: 3.25 Omni Wheel:2 42
+    3300280: 3.25 Omni Wheel:2 43
+    3300282: 3.25 Omni Wheel:2 44
+    3300284: 3.25 Omni Wheel:2 45
+    3300286: 3.25 Omni Wheel:2 46
+    3300288: 3.25 Omni Wheel:2 47
+    3300290: 3.25 Omni Wheel:2 48
+    3300292: 3.25 Omni Wheel:2 49
+    3300294: 3.25 Omni Wheel:2 5
+    3300296: 3.25 Omni Wheel:2 50
+    3300298: 3.25 Omni Wheel:2 51
+    3300300: 3.25 Omni Wheel:2 52
+    3300302: 3.25 Omni Wheel:2 53
+    3300304: 3.25 Omni Wheel:2 54
+    3300306: 3.25 Omni Wheel:2 55
+    3300308: 3.25 Omni Wheel:2 56
+    3300310: 3.25 Omni Wheel:2 57
+    3300312: 3.25 Omni Wheel:2 58
+    3300314: 3.25 Omni Wheel:2 59
+    3300316: 3.25 Omni Wheel:2 6
+    3300318: 3.25 Omni Wheel:2 60
+    3300320: 3.25 Omni Wheel:2 61
+    3300322: 3.25 Omni Wheel:2 62
+    3300324: 3.25 Omni Wheel:2 63
+    3300326: 3.25 Omni Wheel:2 64
+    3300328: 3.25 Omni Wheel:2 65
+    3300330: 3.25 Omni Wheel:2 66
+    3300332: 3.25 Omni Wheel:2 67
+    3300334: 3.25 Omni Wheel:2 7
+    3300336: 3.25 Omni Wheel:2 8
+    3300338: 3.25 Omni Wheel:2 9
+    3300340: 3.25 Omni Wheel_MIR:1 1
+    3300342: 3.25 Omni Wheel_MIR:1 10
+    3300344: 3.25 Omni Wheel_MIR:1 11
+    3300346: 3.25 Omni Wheel_MIR:1 12
+    3300348: 3.25 Omni Wheel_MIR:1 13
+    3300350: 3.25 Omni Wheel_MIR:1 14
+    3300352: 3.25 Omni Wheel_MIR:1 15
+    3300354: 3.25 Omni Wheel_MIR:1 16
+    3300356: 3.25 Omni Wheel_MIR:1 17
+    3300358: 3.25 Omni Wheel_MIR:1 18
+    3300360: 3.25 Omni Wheel_MIR:1 19
+    3300362: 3.25 Omni Wheel_MIR:1 2
+    3300364: 3.25 Omni Wheel_MIR:1 20
+    3300366: 3.25 Omni Wheel_MIR:1 21
+    3300368: 3.25 Omni Wheel_MIR:1 22
+    3300370: 3.25 Omni Wheel_MIR:1 23
+    3300372: 3.25 Omni Wheel_MIR:1 24
+    3300374: 3.25 Omni Wheel_MIR:1 25
+    3300376: 3.25 Omni Wheel_MIR:1 26
+    3300378: 3.25 Omni Wheel_MIR:1 27
+    3300380: 3.25 Omni Wheel_MIR:1 28
+    3300382: 3.25 Omni Wheel_MIR:1 29
+    3300384: 3.25 Omni Wheel_MIR:1 3
+    3300386: 3.25 Omni Wheel_MIR:1 30
+    3300388: 3.25 Omni Wheel_MIR:1 31
+    3300390: 3.25 Omni Wheel_MIR:1 32
+    3300392: 3.25 Omni Wheel_MIR:1 33
+    3300394: 3.25 Omni Wheel_MIR:1 34
+    3300396: 3.25 Omni Wheel_MIR:1 35
+    3300398: 3.25 Omni Wheel_MIR:1 36
+    3300400: 3.25 Omni Wheel_MIR:1 37
+    3300402: 3.25 Omni Wheel_MIR:1 38
+    3300404: 3.25 Omni Wheel_MIR:1 39
+    3300406: 3.25 Omni Wheel_MIR:1 4
+    3300408: 3.25 Omni Wheel_MIR:1 40
+    3300410: 3.25 Omni Wheel_MIR:1 41
+    3300412: 3.25 Omni Wheel_MIR:1 42
+    3300414: 3.25 Omni Wheel_MIR:1 43
+    3300416: 3.25 Omni Wheel_MIR:1 44
+    3300418: 3.25 Omni Wheel_MIR:1 45
+    3300420: 3.25 Omni Wheel_MIR:1 46
+    3300422: 3.25 Omni Wheel_MIR:1 47
+    3300424: 3.25 Omni Wheel_MIR:1 48
+    3300426: 3.25 Omni Wheel_MIR:1 49
+    3300428: 3.25 Omni Wheel_MIR:1 5
+    3300430: 3.25 Omni Wheel_MIR:1 50
+    3300432: 3.25 Omni Wheel_MIR:1 51
+    3300434: 3.25 Omni Wheel_MIR:1 52
+    3300436: 3.25 Omni Wheel_MIR:1 53
+    3300438: 3.25 Omni Wheel_MIR:1 54
+    3300440: 3.25 Omni Wheel_MIR:1 55
+    3300442: 3.25 Omni Wheel_MIR:1 56
+    3300444: 3.25 Omni Wheel_MIR:1 57
+    3300446: 3.25 Omni Wheel_MIR:1 58
+    3300448: 3.25 Omni Wheel_MIR:1 59
+    3300450: 3.25 Omni Wheel_MIR:1 6
+    3300452: 3.25 Omni Wheel_MIR:1 60
+    3300454: 3.25 Omni Wheel_MIR:1 61
+    3300456: 3.25 Omni Wheel_MIR:1 62
+    3300458: 3.25 Omni Wheel_MIR:1 63
+    3300460: 3.25 Omni Wheel_MIR:1 64
+    3300462: 3.25 Omni Wheel_MIR:1 65
+    3300464: 3.25 Omni Wheel_MIR:1 66
+    3300466: 3.25 Omni Wheel_MIR:1 67
+    3300468: 3.25 Omni Wheel_MIR:1 7
+    3300470: 3.25 Omni Wheel_MIR:1 8
+    3300472: 3.25 Omni Wheel_MIR:1 9
+    3300474: 3.25 Omni Wheel_MIR:2 1
+    3300476: 3.25 Omni Wheel_MIR:2 10
+    3300478: 3.25 Omni Wheel_MIR:2 11
+    3300480: 3.25 Omni Wheel_MIR:2 12
+    3300482: 3.25 Omni Wheel_MIR:2 13
+    3300484: 3.25 Omni Wheel_MIR:2 14
+    3300486: 3.25 Omni Wheel_MIR:2 15
+    3300488: 3.25 Omni Wheel_MIR:2 16
+    3300490: 3.25 Omni Wheel_MIR:2 17
+    3300492: 3.25 Omni Wheel_MIR:2 18
+    3300494: 3.25 Omni Wheel_MIR:2 19
+    3300496: 3.25 Omni Wheel_MIR:2 2
+    3300498: 3.25 Omni Wheel_MIR:2 20
+    3300500: 3.25 Omni Wheel_MIR:2 21
+    3300502: 3.25 Omni Wheel_MIR:2 22
+    3300504: 3.25 Omni Wheel_MIR:2 23
+    3300506: 3.25 Omni Wheel_MIR:2 24
+    3300508: 3.25 Omni Wheel_MIR:2 25
+    3300510: 3.25 Omni Wheel_MIR:2 26
+    3300512: 3.25 Omni Wheel_MIR:2 27
+    3300514: 3.25 Omni Wheel_MIR:2 28
+    3300516: 3.25 Omni Wheel_MIR:2 29
+    3300518: 3.25 Omni Wheel_MIR:2 3
+    3300520: 3.25 Omni Wheel_MIR:2 30
+    3300522: 3.25 Omni Wheel_MIR:2 31
+    3300524: 3.25 Omni Wheel_MIR:2 32
+    3300526: 3.25 Omni Wheel_MIR:2 33
+    3300528: 3.25 Omni Wheel_MIR:2 34
+    3300530: 3.25 Omni Wheel_MIR:2 35
+    3300532: 3.25 Omni Wheel_MIR:2 36
+    3300534: 3.25 Omni Wheel_MIR:2 37
+    3300536: 3.25 Omni Wheel_MIR:2 38
+    3300538: 3.25 Omni Wheel_MIR:2 39
+    3300540: 3.25 Omni Wheel_MIR:2 4
+    3300542: 3.25 Omni Wheel_MIR:2 40
+    3300544: 3.25 Omni Wheel_MIR:2 41
+    3300546: 3.25 Omni Wheel_MIR:2 42
+    3300548: 3.25 Omni Wheel_MIR:2 43
+    3300550: 3.25 Omni Wheel_MIR:2 44
+    3300552: 3.25 Omni Wheel_MIR:2 45
+    3300554: 3.25 Omni Wheel_MIR:2 46
+    3300556: 3.25 Omni Wheel_MIR:2 47
+    3300558: 3.25 Omni Wheel_MIR:2 48
+    3300560: 3.25 Omni Wheel_MIR:2 49
+    3300562: 3.25 Omni Wheel_MIR:2 5
+    3300564: 3.25 Omni Wheel_MIR:2 50
+    3300566: 3.25 Omni Wheel_MIR:2 51
+    3300568: 3.25 Omni Wheel_MIR:2 52
+    3300570: 3.25 Omni Wheel_MIR:2 53
+    3300572: 3.25 Omni Wheel_MIR:2 54
+    3300574: 3.25 Omni Wheel_MIR:2 55
+    3300576: 3.25 Omni Wheel_MIR:2 56
+    3300578: 3.25 Omni Wheel_MIR:2 57
+    3300580: 3.25 Omni Wheel_MIR:2 58
+    3300582: 3.25 Omni Wheel_MIR:2 59
+    3300584: 3.25 Omni Wheel_MIR:2 6
+    3300586: 3.25 Omni Wheel_MIR:2 60
+    3300588: 3.25 Omni Wheel_MIR:2 61
+    3300590: 3.25 Omni Wheel_MIR:2 62
+    3300592: 3.25 Omni Wheel_MIR:2 63
+    3300594: 3.25 Omni Wheel_MIR:2 64
+    3300596: 3.25 Omni Wheel_MIR:2 65
+    3300598: 3.25 Omni Wheel_MIR:2 66
+    3300600: 3.25 Omni Wheel_MIR:2 67
+    3300602: 3.25 Omni Wheel_MIR:2 7
+    3300604: 3.25 Omni Wheel_MIR:2 8
+    3300606: 3.25 Omni Wheel_MIR:2 9
+    3300608: 5x10 C-Channel:1
+    3300610: 5x10 C-Channel:2
+    3300612: 5x15 C-Channel:1
+    3300614: 5x35 C-Channel:1
+    3300616: 5x35 C-Channel:2
+    3300618: BEARING-BLOCK:1
+    3300620: BEARING-BLOCK:2
+    3300622: BEARING-FLAT:1
+    3300624: BEARING-FLAT:10
+    3300626: BEARING-FLAT:11
+    3300628: BEARING-FLAT:12
+    3300630: BEARING-FLAT:13
+    3300632: BEARING-FLAT:14
+    3300634: BEARING-FLAT:15
+    3300636: BEARING-FLAT:16
+    3300638: BEARING-FLAT:17
+    3300640: BEARING-FLAT:18
+    3300642: BEARING-FLAT:19
+    3300644: BEARING-FLAT:2
+    3300646: BEARING-FLAT:20
+    3300648: BEARING-FLAT:21
+    3300650: BEARING-FLAT:3
+    3300652: BEARING-FLAT:4
+    3300654: BEARING-FLAT:5
+    3300656: BEARING-FLAT:6
+    3300658: BEARING-FLAT:7
+    3300660: BEARING-FLAT:8
+    3300662: BEARING-FLAT:9
+    3300664: BEARING-FLAT_MIR1:1
+    3300666: BEARING-FLAT_MIR1:2
+    3300668: BEARING-FLAT_MIR1:3
+    3300670: BEARING-FLAT_MIR1:4
+    3300672: BEARING-FLAT_MIR:1
+    3300674: BEARING-FLAT_MIR:2
+    3300676: BEARING-FLAT_MIR:3
+    3300678: BEARING-FLAT_MIR:4
+    3300680: C-Channel Coupler Gusset:1
+    3300682: C-Channel Coupler Gusset:2
+    3300684: High Strength 12 Tooth Gear:1
+    3300686: High Strength 12 Tooth Gear:1 1
+    3300688: High Strength 12 Tooth Gear_MIR:1
+    3300690: High Strength 12 Tooth Gear_MIR:1 1
+    3300692: HS-GEAR-36TOOTH:1
+    3300694: HS-GEAR-36TOOTH_MIR:1
+    3300696: HS-GEAR-60TOOTH:1
+    3300698: HS-GEAR-60TOOTH:2
+    3300700: HS-GEAR-84TOOTH:1
+    3300702: HS-GEAR-84TOOTH:2
+    3300704: HS-GEAR-84TOOTH_MIR:1
+    3300706: Motor 393:1 1
+    3300708: Motor 393:1 2
+    3300710: Motor 393:1 3
+    3300712: Motor 393:2 1
+    3300714: Motor 393:2 2
+    3300716: Motor 393:2 3
+    3300718: Motor 393:3 1
+    3300720: Motor 393:3 2
+    3300722: Motor 393:3 3
+    3300724: Motor 393:4 1
+    3300726: Motor 393:4 2
+    3300728: Motor 393:4 3
+    3300730: Motor 393:5 1
+    3300732: Motor 393:5 2
+    3300734: Motor 393:5 3
+    3300736: Motor 393:6 1
+    3300738: Motor 393:6 2
+    3300740: Motor 393:6 3
+    3300742: Motor 393_MIR1:1 1
+    3300744: Motor 393_MIR1:1 2
+    3300746: Motor 393_MIR1:1 3
+    3300748: Motor 393_MIR1:2 1
+    3300750: Motor 393_MIR1:2 2
+    3300752: Motor 393_MIR1:2 3
+    3300754: Motor 393_MIR:1 1
+    3300756: Motor 393_MIR:1 2
+    3300758: Motor 393_MIR:1 3
+    3300760: Motor 393_MIR:2 1
+    3300762: Motor 393_MIR:2 2
+    3300764: Motor 393_MIR:2 3
+    3300766: SPACER-0500-0125:1
+    3300768: SPACER-0500-0125:2
+    3300770: SPACER-0500-0125:3
+    3300772: SPACER-0500-0125:4
+    3300774: SPACER-0500-0125:5
+    3300776: SPACER-0500-0125:6
+    3300778: SPACER-0500-0125:7
+    3300780: SPACER-0500-0125:8
+    3300782: SPACER-0500-0500:1
+    3300784: SPACER-0500-0500:2
+    3300786: SPACER-0500-0500:3
+    3300788: SPACER-0500-0500:4
+    3300790: Standoff 2 in:1
+    3300792: Standoff 2 in:2
+    3300794: VEX-60-TOOTH-GEAR:1
+    3300796: VEX-60-TOOTH-GEAR:2
+    3300798: VEX-60-TOOTH-GEAR_MIR:1
+    3300800: VEX-60-TOOTH-GEAR_MIR:2
+    4300000: High Strength 12 Tooth Gear:1
+    4300002: High Strength 12 Tooth Gear_MIR:1
+    4300004: 2x35 Angle:1
+    4300006: 2x35 C-Channel:1
+    4300008: 2x35 C-Channel:2
+    4300010: 2x35 Angle:2
+    4300012: 5x35 C-Channel:1
+    4300014: Motor 393:1
+    4300016: Motor 393:1
+    4300018: Motor 393:1
+    4300020: BEARING-FLAT:1
+    4300022: 3.25 Omni Wheel:1
+    4300024: 3.25 Omni Wheel:1
+    4300026: 3.25 Omni Wheel:1
+    4300028: 3.25 Omni Wheel:1
+    4300030: 3.25 Omni Wheel:1
+    4300032: 3.25 Omni Wheel:1
+    4300034: 3.25 Omni Wheel:1
+    4300036: 3.25 Omni Wheel:1
+    4300038: 3.25 Omni Wheel:1
+    4300040: 3.25 Omni Wheel:1
+    4300042: 3.25 Omni Wheel:1
+    4300044: 3.25 Omni Wheel:1
+    4300046: 3.25 Omni Wheel:1
+    4300048: 3.25 Omni Wheel:1
+    4300050: 3.25 Omni Wheel:1
+    4300052: 3.25 Omni Wheel:1
+    4300054: 3.25 Omni Wheel:1
+    4300056: 3.25 Omni Wheel:1
+    4300058: 3.25 Omni Wheel:1
+    4300060: 3.25 Omni Wheel:1
+    4300062: 3.25 Omni Wheel:1
+    4300064: 3.25 Omni Wheel:1
+    4300066: 3.25 Omni Wheel:1
+    4300068: 3.25 Omni Wheel:1
+    4300070: 3.25 Omni Wheel:1
+    4300072: 3.25 Omni Wheel:1
+    4300074: 3.25 Omni Wheel:1
+    4300076: 3.25 Omni Wheel:1
+    4300078: 3.25 Omni Wheel:1
+    4300080: 3.25 Omni Wheel:1
+    4300082: 3.25 Omni Wheel:1
+    4300084: 3.25 Omni Wheel:1
+    4300086: 3.25 Omni Wheel:1
+    4300088: 3.25 Omni Wheel:1
+    4300090: 3.25 Omni Wheel:1
+    4300092: 3.25 Omni Wheel:1
+    4300094: 3.25 Omni Wheel:1
+    4300096: 3.25 Omni Wheel:1
+    4300098: 3.25 Omni Wheel:1
+    4300100: 3.25 Omni Wheel:1
+    4300102: 3.25 Omni Wheel:1
+    4300104: 3.25 Omni Wheel:1
+    4300106: 3.25 Omni Wheel:1
+    4300108: 3.25 Omni Wheel:1
+    4300110: 3.25 Omni Wheel:1
+    4300112: 3.25 Omni Wheel:1
+    4300114: 3.25 Omni Wheel:1
+    4300116: 3.25 Omni Wheel:1
+    4300118: 3.25 Omni Wheel:1
+    4300120: 3.25 Omni Wheel:1
+    4300122: 3.25 Omni Wheel:1
+    4300124: 3.25 Omni Wheel:1
+    4300126: 3.25 Omni Wheel:1
+    4300128: 3.25 Omni Wheel:1
+    4300130: 3.25 Omni Wheel:1
+    4300132: 3.25 Omni Wheel:1
+    4300134: 3.25 Omni Wheel:1
+    4300136: 3.25 Omni Wheel:1
+    4300138: 3.25 Omni Wheel:1
+    4300140: 3.25 Omni Wheel:1
+    4300142: 3.25 Omni Wheel:1
+    4300144: 3.25 Omni Wheel:1
+    4300146: 3.25 Omni Wheel:1
+    4300148: 3.25 Omni Wheel:1
+    4300150: 3.25 Omni Wheel:1
+    4300152: 3.25 Omni Wheel:1
+    4300154: 3.25 Omni Wheel:1
+    4300156: BEARING-FLAT:2
+    4300158: BEARING-FLAT:3
+    4300160: BEARING-FLAT:4
+    4300162: Motor 393:2
+    4300164: Motor 393:2
+    4300166: Motor 393:2
+    4300168: VEX-60-TOOTH-GEAR:1
+    4300170: VEX-60-TOOTH-GEAR:2
+    4300172: 3.25 Omni Wheel:2
+    4300174: 3.25 Omni Wheel:2
+    4300176: 3.25 Omni Wheel:2
+    4300178: 3.25 Omni Wheel:2
+    4300180: 3.25 Omni Wheel:2
+    4300182: 3.25 Omni Wheel:2
+    4300184: 3.25 Omni Wheel:2
+    4300186: 3.25 Omni Wheel:2
+    4300188: 3.25 Omni Wheel:2
+    4300190: 3.25 Omni Wheel:2
+    4300192: 3.25 Omni Wheel:2
+    4300194: 3.25 Omni Wheel:2
+    4300196: 3.25 Omni Wheel:2
+    4300198: 3.25 Omni Wheel:2
+    4300200: 3.25 Omni Wheel:2
+    4300202: 3.25 Omni Wheel:2
+    4300204: 3.25 Omni Wheel:2
+    4300206: 3.25 Omni Wheel:2
+    4300208: 3.25 Omni Wheel:2
+    4300210: 3.25 Omni Wheel:2
+    4300212: 3.25 Omni Wheel:2
+    4300214: 3.25 Omni Wheel:2
+    4300216: 3.25 Omni Wheel:2
+    4300218: 3.25 Omni Wheel:2
+    4300220: 3.25 Omni Wheel:2
+    4300222: 3.25 Omni Wheel:2
+    4300224: 3.25 Omni Wheel:2
+    4300226: 3.25 Omni Wheel:2
+    4300228: 3.25 Omni Wheel:2
+    4300230: 3.25 Omni Wheel:2
+    4300232: 3.25 Omni Wheel:2
+    4300234: 3.25 Omni Wheel:2
+    4300236: 3.25 Omni Wheel:2
+    4300238: 3.25 Omni Wheel:2
+    4300240: 3.25 Omni Wheel:2
+    4300242: 3.25 Omni Wheel:2
+    4300244: 3.25 Omni Wheel:2
+    4300246: 3.25 Omni Wheel:2
+    4300248: 3.25 Omni Wheel:2
+    4300250: 3.25 Omni Wheel:2
+    4300252: 3.25 Omni Wheel:2
+    4300254: 3.25 Omni Wheel:2
+    4300256: 3.25 Omni Wheel:2
+    4300258: 3.25 Omni Wheel:2
+    4300260: 3.25 Omni Wheel:2
+    4300262: 3.25 Omni Wheel:2
+    4300264: 3.25 Omni Wheel:2
+    4300266: 3.25 Omni Wheel:2
+    4300268: 3.25 Omni Wheel:2
+    4300270: 3.25 Omni Wheel:2
+    4300272: 3.25 Omni Wheel:2
+    4300274: 3.25 Omni Wheel:2
+    4300276: 3.25 Omni Wheel:2
+    4300278: 3.25 Omni Wheel:2
+    4300280: 3.25 Omni Wheel:2
+    4300282: 3.25 Omni Wheel:2
+    4300284: 3.25 Omni Wheel:2
+    4300286: 3.25 Omni Wheel:2
+    4300288: 3.25 Omni Wheel:2
+    4300290: 3.25 Omni Wheel:2
+    4300292: 3.25 Omni Wheel:2
+    4300294: 3.25 Omni Wheel:2
+    4300296: 3.25 Omni Wheel:2
+    4300298: 3.25 Omni Wheel:2
+    4300300: 3.25 Omni Wheel:2
+    4300302: 3.25 Omni Wheel:2
+    4300304: 3.25 Omni Wheel:2
+    4300306: 2x35 C-Channel_MIR:1
+    4300308: 2x35 C-Channel_MIR:2
+    4300310: Motor 393_MIR:1
+    4300312: Motor 393_MIR:1
+    4300314: Motor 393_MIR:1
+    4300316: BEARING-FLAT_MIR:1
+    4300318: 3.25 Omni Wheel_MIR:1
+    4300320: 3.25 Omni Wheel_MIR:1
+    4300322: 3.25 Omni Wheel_MIR:1
+    4300324: 3.25 Omni Wheel_MIR:1
+    4300326: 3.25 Omni Wheel_MIR:1
+    4300328: 3.25 Omni Wheel_MIR:1
+    4300330: 3.25 Omni Wheel_MIR:1
+    4300332: 3.25 Omni Wheel_MIR:1
+    4300334: 3.25 Omni Wheel_MIR:1
+    4300336: 3.25 Omni Wheel_MIR:1
+    4300338: 3.25 Omni Wheel_MIR:1
+    4300340: 3.25 Omni Wheel_MIR:1
+    4300342: 3.25 Omni Wheel_MIR:1
+    4300344: 3.25 Omni Wheel_MIR:1
+    4300346: 3.25 Omni Wheel_MIR:1
+    4300348: 3.25 Omni Wheel_MIR:1
+    4300350: 3.25 Omni Wheel_MIR:1
+    4300352: 3.25 Omni Wheel_MIR:1
+    4300354: 3.25 Omni Wheel_MIR:1
+    4300356: 3.25 Omni Wheel_MIR:1
+    4300358: 3.25 Omni Wheel_MIR:1
+    4300360: 3.25 Omni Wheel_MIR:1
+    4300362: 3.25 Omni Wheel_MIR:1
+    4300364: 3.25 Omni Wheel_MIR:1
+    4300366: 3.25 Omni Wheel_MIR:1
+    4300368: 3.25 Omni Wheel_MIR:1
+    4300370: 3.25 Omni Wheel_MIR:1
+    4300372: 3.25 Omni Wheel_MIR:1
+    4300374: 3.25 Omni Wheel_MIR:1
+    4300376: 3.25 Omni Wheel_MIR:1
+    4300378: 3.25 Omni Wheel_MIR:1
+    4300380: 3.25 Omni Wheel_MIR:1
+    4300382: 3.25 Omni Wheel_MIR:1
+    4300384: 3.25 Omni Wheel_MIR:1
+    4300386: 3.25 Omni Wheel_MIR:1
+    4300388: 3.25 Omni Wheel_MIR:1
+    4300390: 3.25 Omni Wheel_MIR:1
+    4300392: 3.25 Omni Wheel_MIR:1
+    4300394: 3.25 Omni Wheel_MIR:1
+    4300396: 3.25 Omni Wheel_MIR:1
+    4300398: 3.25 Omni Wheel_MIR:1
+    4300400: 3.25 Omni Wheel_MIR:1
+    4300402: 3.25 Omni Wheel_MIR:1
+    4300404: 3.25 Omni Wheel_MIR:1
+    4300406: 3.25 Omni Wheel_MIR:1
+    4300408: 3.25 Omni Wheel_MIR:1
+    4300410: 3.25 Omni Wheel_MIR:1
+    4300412: 3.25 Omni Wheel_MIR:1
+    4300414: 3.25 Omni Wheel_MIR:1
+    4300416: 3.25 Omni Wheel_MIR:1
+    4300418: 3.25 Omni Wheel_MIR:1
+    4300420: 3.25 Omni Wheel_MIR:1
+    4300422: 3.25 Omni Wheel_MIR:1
+    4300424: 3.25 Omni Wheel_MIR:1
+    4300426: 3.25 Omni Wheel_MIR:1
+    4300428: 3.25 Omni Wheel_MIR:1
+    4300430: 3.25 Omni Wheel_MIR:1
+    4300432: 3.25 Omni Wheel_MIR:1
+    4300434: 3.25 Omni Wheel_MIR:1
+    4300436: 3.25 Omni Wheel_MIR:1
+    4300438: 3.25 Omni Wheel_MIR:1
+    4300440: 3.25 Omni Wheel_MIR:1
+    4300442: 3.25 Omni Wheel_MIR:1
+    4300444: 3.25 Omni Wheel_MIR:1
+    4300446: 3.25 Omni Wheel_MIR:1
+    4300448: 3.25 Omni Wheel_MIR:1
+    4300450: 3.25 Omni Wheel_MIR:1
+    4300452: BEARING-FLAT_MIR:2
+    4300454: BEARING-FLAT_MIR:3
+    4300456: BEARING-FLAT_MIR:4
+    4300458: Motor 393_MIR:2
+    4300460: Motor 393_MIR:2
+    4300462: Motor 393_MIR:2
+    4300464: VEX-60-TOOTH-GEAR_MIR:1
+    4300466: VEX-60-TOOTH-GEAR_MIR:2
+    4300468: 3.25 Omni Wheel_MIR:2
+    4300470: 3.25 Omni Wheel_MIR:2
+    4300472: 3.25 Omni Wheel_MIR:2
+    4300474: 3.25 Omni Wheel_MIR:2
+    4300476: 3.25 Omni Wheel_MIR:2
+    4300478: 3.25 Omni Wheel_MIR:2
+    4300480: 3.25 Omni Wheel_MIR:2
+    4300482: 3.25 Omni Wheel_MIR:2
+    4300484: 3.25 Omni Wheel_MIR:2
+    4300486: 3.25 Omni Wheel_MIR:2
+    4300488: 3.25 Omni Wheel_MIR:2
+    4300490: 3.25 Omni Wheel_MIR:2
+    4300492: 3.25 Omni Wheel_MIR:2
+    4300494: 3.25 Omni Wheel_MIR:2
+    4300496: 3.25 Omni Wheel_MIR:2
+    4300498: 3.25 Omni Wheel_MIR:2
+    4300500: 3.25 Omni Wheel_MIR:2
+    4300502: 3.25 Omni Wheel_MIR:2
+    4300504: 3.25 Omni Wheel_MIR:2
+    4300506: 3.25 Omni Wheel_MIR:2
+    4300508: 3.25 Omni Wheel_MIR:2
+    4300510: 3.25 Omni Wheel_MIR:2
+    4300512: 3.25 Omni Wheel_MIR:2
+    4300514: 3.25 Omni Wheel_MIR:2
+    4300516: 3.25 Omni Wheel_MIR:2
+    4300518: 3.25 Omni Wheel_MIR:2
+    4300520: 3.25 Omni Wheel_MIR:2
+    4300522: 3.25 Omni Wheel_MIR:2
+    4300524: 3.25 Omni Wheel_MIR:2
+    4300526: 3.25 Omni Wheel_MIR:2
+    4300528: 3.25 Omni Wheel_MIR:2
+    4300530: 3.25 Omni Wheel_MIR:2
+    4300532: 3.25 Omni Wheel_MIR:2
+    4300534: 3.25 Omni Wheel_MIR:2
+    4300536: 3.25 Omni Wheel_MIR:2
+    4300538: 3.25 Omni Wheel_MIR:2
+    4300540: 3.25 Omni Wheel_MIR:2
+    4300542: 3.25 Omni Wheel_MIR:2
+    4300544: 3.25 Omni Wheel_MIR:2
+    4300546: 3.25 Omni Wheel_MIR:2
+    4300548: 3.25 Omni Wheel_MIR:2
+    4300550: 3.25 Omni Wheel_MIR:2
+    4300552: 3.25 Omni Wheel_MIR:2
+    4300554: 3.25 Omni Wheel_MIR:2
+    4300556: 3.25 Omni Wheel_MIR:2
+    4300558: 3.25 Omni Wheel_MIR:2
+    4300560: 3.25 Omni Wheel_MIR:2
+    4300562: 3.25 Omni Wheel_MIR:2
+    4300564: 3.25 Omni Wheel_MIR:2
+    4300566: 3.25 Omni Wheel_MIR:2
+    4300568: 3.25 Omni Wheel_MIR:2
+    4300570: 3.25 Omni Wheel_MIR:2
+    4300572: 3.25 Omni Wheel_MIR:2
+    4300574: 3.25 Omni Wheel_MIR:2
+    4300576: 3.25 Omni Wheel_MIR:2
+    4300578: 3.25 Omni Wheel_MIR:2
+    4300580: 3.25 Omni Wheel_MIR:2
+    4300582: 3.25 Omni Wheel_MIR:2
+    4300584: 3.25 Omni Wheel_MIR:2
+    4300586: 3.25 Omni Wheel_MIR:2
+    4300588: 3.25 Omni Wheel_MIR:2
+    4300590: 3.25 Omni Wheel_MIR:2
+    4300592: 3.25 Omni Wheel_MIR:2
+    4300594: 3.25 Omni Wheel_MIR:2
+    4300596: 3.25 Omni Wheel_MIR:2
+    4300598: 3.25 Omni Wheel_MIR:2
+    4300600: 3.25 Omni Wheel_MIR:2
+    4300602: 2x15 C-Channel:1
+    4300604: BEARING-FLAT:5
+    4300606: BEARING-FLAT:6
+    4300608: BEARING-FLAT:7
+    4300610: 2x10 C-Channel:1
+    4300612: BEARING-FLAT:8
+    4300614: 2x10 C-Channel:2
+    4300616: HS-GEAR-84TOOTH:1
+    4300618: 2x15 C-Channel:2
+    4300620: BEARING-FLAT:9
+    4300622: BEARING-FLAT:10
+    4300624: Motor 393:3
+    4300626: Motor 393:3
+    4300628: Motor 393:3
+    4300630: BEARING-FLAT:11
+    4300632: BEARING-FLAT:12
+    4300634: 2x10 C-Channel:3
+    4300636: BEARING-FLAT:13
+    4300638: BEARING-FLAT:14
+    4300640: 2x25 C-Channel:1
+    4300642: 2x25 C-Channel:2
+    4300644: 2x25 C-Channel:3
+    4300646: 2x10 C-Channel:4
+    4300648: 2x10 C-Channel:5
+    4300650: 2x35 C-Channel:3
+    4300652: BEARING-FLAT:15
+    4300654: BEARING-FLAT:16
+    4300656: Motor 393:4
+    4300658: Motor 393:4
+    4300660: Motor 393:4
+    4300662: High Strength 12 Tooth Gear:1
+    4300664: HS-GEAR-84TOOTH:2
+    4300666: HS-GEAR-36TOOTH:1
+    4300668: 2x35 C-Channel:4
+    4300670: 18 tooth sprocket:1
+    4300672: 2x35 C-Channel:5
+    4300674: BEARING-FLAT:17
+    4300676: Motor 393:5
+    4300678: Motor 393:5
+    4300680: Motor 393:5
+    4300682: 2x15 C-Channel:3
+    4300684: 18 tooth sprocket:2
+    4300686: BEARING-FLAT:18
+    4300688: 2x35 C-Channel_MIR1:1
+    4300690: BEARING-FLAT_MIR1:1
+    4300692: BEARING-FLAT_MIR1:2
+    4300694: Motor 393_MIR1:1
+    4300696: Motor 393_MIR1:1
+    4300698: Motor 393_MIR1:1
+    4300700: High Strength 12 Tooth Gear_MIR:1
+    4300702: HS-GEAR-84TOOTH_MIR:1
+    4300704: HS-GEAR-36TOOTH_MIR:1
+    4300706: 2x35 C-Channel_MIR1:2
+    4300708: 18 tooth sprocket_MIR:1
+    4300710: 2x35 C-Channel_MIR1:3
+    4300712: BEARING-FLAT_MIR1:3
+    4300714: Motor 393_MIR1:2
+    4300716: Motor 393_MIR1:2
+    4300718: Motor 393_MIR1:2
+    4300720: 2x15 C-Channel_MIR:1
+    4300722: 18 tooth sprocket_MIR:2
+    4300724: BEARING-FLAT_MIR1:4
+    4300726: 2x25 C-Channel:4
+    4300728: C-Channel Coupler Gusset:1
+    4300730: C-Channel Coupler Gusset:2
+    4300732: SPACER-0500-0125:1
+    4300734: SPACER-0500-0125:2
+    4300736: Standoff 2 in:1
+    4300738: Standoff 2 in:2
+    4300740: SPACER-0500-0125:3
+    4300742: SPACER-0500-0125:4
+    4300744: 2x25 C-Channel:5
+    4300746: BEARING-FLAT:19
+    4300748: BEARING-FLAT:20
+    4300750: BEARING-FLAT:21
+    4300752: Motor 393:6
+    4300754: Motor 393:6
+    4300756: Motor 393:6
+    4300758: SPACER-0500-0125:5
+    4300760: SPACER-0500-0125:6
+    4300762: HS-GEAR-60TOOTH:1
+    4300764: HS-GEAR-60TOOTH:2
+    4300766: 5x10 C-Channel:1
+    4300768: 1.5in Screw:1
+    4300770: 1.5in Screw:2
+    4300772: 1.5in Screw:3
+    4300774: 5x10 C-Channel:2
+    4300776: 1.5in Screw:4
+    4300778: 1.5in Screw:5
+    4300780: 1.5in Screw:6
+    4300782: SPACER-0500-0500:1
+    4300784: SPACER-0500-0500:2
+    4300786: SPACER-0500-0500:3
+    4300788: SPACER-0500-0500:4
+    4300790: BEARING-BLOCK:1
+    4300792: BEARING-BLOCK:2
+    4300794: 5x15 C-Channel:1
+    4300796: SPACER-0500-0125:7
+    4300798: SPACER-0500-0125:8
+    4300800: 5x35 C-Channel:2
+    6400000: 1.5in Screw:1
+    6400002: 1.5in Screw:2
+    6400004: 1.5in Screw:3
+    6400006: 1.5in Screw:4
+    6400008: 1.5in Screw:5
+    6400010: 1.5in Screw:6
+    6400012: 18 tooth sprocket:1
+    6400014: 18 tooth sprocket:2
+    6400016: 18 tooth sprocket_MIR:1
+    6400018: 18 tooth sprocket_MIR:2
+    6400020: 2x10 C-Channel:1
+    6400022: 2x10 C-Channel:2
+    6400024: 2x10 C-Channel:3
+    6400026: 2x10 C-Channel:4
+    6400028: 2x10 C-Channel:5
+    6400030: 2x15 C-Channel:1
+    6400032: 2x15 C-Channel:2
+    6400034: 2x15 C-Channel:3
+    6400036: 2x15 C-Channel_MIR:1
+    6400038: 2x25 C-Channel:1
+    6400040: 2x25 C-Channel:2
+    6400042: 2x25 C-Channel:3
+    6400044: 2x25 C-Channel:4
+    6400046: 2x25 C-Channel:5
+    6400048: 2x35 Angle:1
+    6400050: 2x35 Angle:2
+    6400052: 2x35 C-Channel:1
+    6400054: 2x35 C-Channel:2
+    6400056: 2x35 C-Channel:3
+    6400058: 2x35 C-Channel:4
+    6400060: 2x35 C-Channel:5
+    6400062: 2x35 C-Channel_MIR1:1
+    6400064: 2x35 C-Channel_MIR1:2
+    6400066: 2x35 C-Channel_MIR1:3
+    6400068: 2x35 C-Channel_MIR:1
+    6400070: 2x35 C-Channel_MIR:2
+    6400072: 3.25 Omni Wheel:1 1
+    6400074: 3.25 Omni Wheel:1 10
+    6400076: 3.25 Omni Wheel:1 11
+    6400078: 3.25 Omni Wheel:1 12
+    6400080: 3.25 Omni Wheel:1 13
+    6400082: 3.25 Omni Wheel:1 14
+    6400084: 3.25 Omni Wheel:1 15
+    6400086: 3.25 Omni Wheel:1 16
+    6400088: 3.25 Omni Wheel:1 17
+    6400090: 3.25 Omni Wheel:1 18
+    6400092: 3.25 Omni Wheel:1 19
+    6400094: 3.25 Omni Wheel:1 2
+    6400096: 3.25 Omni Wheel:1 20
+    6400098: 3.25 Omni Wheel:1 21
+    6400100: 3.25 Omni Wheel:1 22
+    6400102: 3.25 Omni Wheel:1 23
+    6400104: 3.25 Omni Wheel:1 24
+    6400106: 3.25 Omni Wheel:1 25
+    6400108: 3.25 Omni Wheel:1 26
+    6400110: 3.25 Omni Wheel:1 27
+    6400112: 3.25 Omni Wheel:1 28
+    6400114: 3.25 Omni Wheel:1 29
+    6400116: 3.25 Omni Wheel:1 3
+    6400118: 3.25 Omni Wheel:1 30
+    6400120: 3.25 Omni Wheel:1 31
+    6400122: 3.25 Omni Wheel:1 32
+    6400124: 3.25 Omni Wheel:1 33
+    6400126: 3.25 Omni Wheel:1 34
+    6400128: 3.25 Omni Wheel:1 35
+    6400130: 3.25 Omni Wheel:1 36
+    6400132: 3.25 Omni Wheel:1 37
+    6400134: 3.25 Omni Wheel:1 38
+    6400136: 3.25 Omni Wheel:1 39
+    6400138: 3.25 Omni Wheel:1 4
+    6400140: 3.25 Omni Wheel:1 40
+    6400142: 3.25 Omni Wheel:1 41
+    6400144: 3.25 Omni Wheel:1 42
+    6400146: 3.25 Omni Wheel:1 43
+    6400148: 3.25 Omni Wheel:1 44
+    6400150: 3.25 Omni Wheel:1 45
+    6400152: 3.25 Omni Wheel:1 46
+    6400154: 3.25 Omni Wheel:1 47
+    6400156: 3.25 Omni Wheel:1 48
+    6400158: 3.25 Omni Wheel:1 49
+    6400160: 3.25 Omni Wheel:1 5
+    6400162: 3.25 Omni Wheel:1 50
+    6400164: 3.25 Omni Wheel:1 51
+    6400166: 3.25 Omni Wheel:1 52
+    6400168: 3.25 Omni Wheel:1 53
+    6400170: 3.25 Omni Wheel:1 54
+    6400172: 3.25 Omni Wheel:1 55
+    6400174: 3.25 Omni Wheel:1 56
+    6400176: 3.25 Omni Wheel:1 57
+    6400178: 3.25 Omni Wheel:1 58
+    6400180: 3.25 Omni Wheel:1 59
+    6400182: 3.25 Omni Wheel:1 6
+    6400184: 3.25 Omni Wheel:1 60
+    6400186: 3.25 Omni Wheel:1 61
+    6400188: 3.25 Omni Wheel:1 62
+    6400190: 3.25 Omni Wheel:1 63
+    6400192: 3.25 Omni Wheel:1 64
+    6400194: 3.25 Omni Wheel:1 65
+    6400196: 3.25 Omni Wheel:1 66
+    6400198: 3.25 Omni Wheel:1 67
+    6400200: 3.25 Omni Wheel:1 7
+    6400202: 3.25 Omni Wheel:1 8
+    6400204: 3.25 Omni Wheel:1 9
+    6400206: 3.25 Omni Wheel:2 1
+    6400208: 3.25 Omni Wheel:2 10
+    6400210: 3.25 Omni Wheel:2 11
+    6400212: 3.25 Omni Wheel:2 12
+    6400214: 3.25 Omni Wheel:2 13
+    6400216: 3.25 Omni Wheel:2 14
+    6400218: 3.25 Omni Wheel:2 15
+    6400220: 3.25 Omni Wheel:2 16
+    6400222: 3.25 Omni Wheel:2 17
+    6400224: 3.25 Omni Wheel:2 18
+    6400226: 3.25 Omni Wheel:2 19
+    6400228: 3.25 Omni Wheel:2 2
+    6400230: 3.25 Omni Wheel:2 20
+    6400232: 3.25 Omni Wheel:2 21
+    6400234: 3.25 Omni Wheel:2 22
+    6400236: 3.25 Omni Wheel:2 23
+    6400238: 3.25 Omni Wheel:2 24
+    6400240: 3.25 Omni Wheel:2 25
+    6400242: 3.25 Omni Wheel:2 26
+    6400244: 3.25 Omni Wheel:2 27
+    6400246: 3.25 Omni Wheel:2 28
+    6400248: 3.25 Omni Wheel:2 29
+    6400250: 3.25 Omni Wheel:2 3
+    6400252: 3.25 Omni Wheel:2 30
+    6400254: 3.25 Omni Wheel:2 31
+    6400256: 3.25 Omni Wheel:2 32
+    6400258: 3.25 Omni Wheel:2 33
+    6400260: 3.25 Omni Wheel:2 34
+    6400262: 3.25 Omni Wheel:2 35
+    6400264: 3.25 Omni Wheel:2 36
+    6400266: 3.25 Omni Wheel:2 37
+    6400268: 3.25 Omni Wheel:2 38
+    6400270: 3.25 Omni Wheel:2 39
+    6400272: 3.25 Omni Wheel:2 4
+    6400274: 3.25 Omni Wheel:2 40
+    6400276: 3.25 Omni Wheel:2 41
+    6400278: 3.25 Omni Wheel:2 42
+    6400280: 3.25 Omni Wheel:2 43
+    6400282: 3.25 Omni Wheel:2 44
+    6400284: 3.25 Omni Wheel:2 45
+    6400286: 3.25 Omni Wheel:2 46
+    6400288: 3.25 Omni Wheel:2 47
+    6400290: 3.25 Omni Wheel:2 48
+    6400292: 3.25 Omni Wheel:2 49
+    6400294: 3.25 Omni Wheel:2 5
+    6400296: 3.25 Omni Wheel:2 50
+    6400298: 3.25 Omni Wheel:2 51
+    6400300: 3.25 Omni Wheel:2 52
+    6400302: 3.25 Omni Wheel:2 53
+    6400304: 3.25 Omni Wheel:2 54
+    6400306: 3.25 Omni Wheel:2 55
+    6400308: 3.25 Omni Wheel:2 56
+    6400310: 3.25 Omni Wheel:2 57
+    6400312: 3.25 Omni Wheel:2 58
+    6400314: 3.25 Omni Wheel:2 59
+    6400316: 3.25 Omni Wheel:2 6
+    6400318: 3.25 Omni Wheel:2 60
+    6400320: 3.25 Omni Wheel:2 61
+    6400322: 3.25 Omni Wheel:2 62
+    6400324: 3.25 Omni Wheel:2 63
+    6400326: 3.25 Omni Wheel:2 64
+    6400328: 3.25 Omni Wheel:2 65
+    6400330: 3.25 Omni Wheel:2 66
+    6400332: 3.25 Omni Wheel:2 67
+    6400334: 3.25 Omni Wheel:2 7
+    6400336: 3.25 Omni Wheel:2 8
+    6400338: 3.25 Omni Wheel:2 9
+    6400340: 3.25 Omni Wheel_MIR:1 1
+    6400342: 3.25 Omni Wheel_MIR:1 10
+    6400344: 3.25 Omni Wheel_MIR:1 11
+    6400346: 3.25 Omni Wheel_MIR:1 12
+    6400348: 3.25 Omni Wheel_MIR:1 13
+    6400350: 3.25 Omni Wheel_MIR:1 14
+    6400352: 3.25 Omni Wheel_MIR:1 15
+    6400354: 3.25 Omni Wheel_MIR:1 16
+    6400356: 3.25 Omni Wheel_MIR:1 17
+    6400358: 3.25 Omni Wheel_MIR:1 18
+    6400360: 3.25 Omni Wheel_MIR:1 19
+    6400362: 3.25 Omni Wheel_MIR:1 2
+    6400364: 3.25 Omni Wheel_MIR:1 20
+    6400366: 3.25 Omni Wheel_MIR:1 21
+    6400368: 3.25 Omni Wheel_MIR:1 22
+    6400370: 3.25 Omni Wheel_MIR:1 23
+    6400372: 3.25 Omni Wheel_MIR:1 24
+    6400374: 3.25 Omni Wheel_MIR:1 25
+    6400376: 3.25 Omni Wheel_MIR:1 26
+    6400378: 3.25 Omni Wheel_MIR:1 27
+    6400380: 3.25 Omni Wheel_MIR:1 28
+    6400382: 3.25 Omni Wheel_MIR:1 29
+    6400384: 3.25 Omni Wheel_MIR:1 3
+    6400386: 3.25 Omni Wheel_MIR:1 30
+    6400388: 3.25 Omni Wheel_MIR:1 31
+    6400390: 3.25 Omni Wheel_MIR:1 32
+    6400392: 3.25 Omni Wheel_MIR:1 33
+    6400394: 3.25 Omni Wheel_MIR:1 34
+    6400396: 3.25 Omni Wheel_MIR:1 35
+    6400398: 3.25 Omni Wheel_MIR:1 36
+    6400400: 3.25 Omni Wheel_MIR:1 37
+    6400402: 3.25 Omni Wheel_MIR:1 38
+    6400404: 3.25 Omni Wheel_MIR:1 39
+    6400406: 3.25 Omni Wheel_MIR:1 4
+    6400408: 3.25 Omni Wheel_MIR:1 40
+    6400410: 3.25 Omni Wheel_MIR:1 41
+    6400412: 3.25 Omni Wheel_MIR:1 42
+    6400414: 3.25 Omni Wheel_MIR:1 43
+    6400416: 3.25 Omni Wheel_MIR:1 44
+    6400418: 3.25 Omni Wheel_MIR:1 45
+    6400420: 3.25 Omni Wheel_MIR:1 46
+    6400422: 3.25 Omni Wheel_MIR:1 47
+    6400424: 3.25 Omni Wheel_MIR:1 48
+    6400426: 3.25 Omni Wheel_MIR:1 49
+    6400428: 3.25 Omni Wheel_MIR:1 5
+    6400430: 3.25 Omni Wheel_MIR:1 50
+    6400432: 3.25 Omni Wheel_MIR:1 51
+    6400434: 3.25 Omni Wheel_MIR:1 52
+    6400436: 3.25 Omni Wheel_MIR:1 53
+    6400438: 3.25 Omni Wheel_MIR:1 54
+    6400440: 3.25 Omni Wheel_MIR:1 55
+    6400442: 3.25 Omni Wheel_MIR:1 56
+    6400444: 3.25 Omni Wheel_MIR:1 57
+    6400446: 3.25 Omni Wheel_MIR:1 58
+    6400448: 3.25 Omni Wheel_MIR:1 59
+    6400450: 3.25 Omni Wheel_MIR:1 6
+    6400452: 3.25 Omni Wheel_MIR:1 60
+    6400454: 3.25 Omni Wheel_MIR:1 61
+    6400456: 3.25 Omni Wheel_MIR:1 62
+    6400458: 3.25 Omni Wheel_MIR:1 63
+    6400460: 3.25 Omni Wheel_MIR:1 64
+    6400462: 3.25 Omni Wheel_MIR:1 65
+    6400464: 3.25 Omni Wheel_MIR:1 66
+    6400466: 3.25 Omni Wheel_MIR:1 67
+    6400468: 3.25 Omni Wheel_MIR:1 7
+    6400470: 3.25 Omni Wheel_MIR:1 8
+    6400472: 3.25 Omni Wheel_MIR:1 9
+    6400474: 3.25 Omni Wheel_MIR:2 1
+    6400476: 3.25 Omni Wheel_MIR:2 10
+    6400478: 3.25 Omni Wheel_MIR:2 11
+    6400480: 3.25 Omni Wheel_MIR:2 12
+    6400482: 3.25 Omni Wheel_MIR:2 13
+    6400484: 3.25 Omni Wheel_MIR:2 14
+    6400486: 3.25 Omni Wheel_MIR:2 15
+    6400488: 3.25 Omni Wheel_MIR:2 16
+    6400490: 3.25 Omni Wheel_MIR:2 17
+    6400492: 3.25 Omni Wheel_MIR:2 18
+    6400494: 3.25 Omni Wheel_MIR:2 19
+    6400496: 3.25 Omni Wheel_MIR:2 2
+    6400498: 3.25 Omni Wheel_MIR:2 20
+    6400500: 3.25 Omni Wheel_MIR:2 21
+    6400502: 3.25 Omni Wheel_MIR:2 22
+    6400504: 3.25 Omni Wheel_MIR:2 23
+    6400506: 3.25 Omni Wheel_MIR:2 24
+    6400508: 3.25 Omni Wheel_MIR:2 25
+    6400510: 3.25 Omni Wheel_MIR:2 26
+    6400512: 3.25 Omni Wheel_MIR:2 27
+    6400514: 3.25 Omni Wheel_MIR:2 28
+    6400516: 3.25 Omni Wheel_MIR:2 29
+    6400518: 3.25 Omni Wheel_MIR:2 3
+    6400520: 3.25 Omni Wheel_MIR:2 30
+    6400522: 3.25 Omni Wheel_MIR:2 31
+    6400524: 3.25 Omni Wheel_MIR:2 32
+    6400526: 3.25 Omni Wheel_MIR:2 33
+    6400528: 3.25 Omni Wheel_MIR:2 34
+    6400530: 3.25 Omni Wheel_MIR:2 35
+    6400532: 3.25 Omni Wheel_MIR:2 36
+    6400534: 3.25 Omni Wheel_MIR:2 37
+    6400536: 3.25 Omni Wheel_MIR:2 38
+    6400538: 3.25 Omni Wheel_MIR:2 39
+    6400540: 3.25 Omni Wheel_MIR:2 4
+    6400542: 3.25 Omni Wheel_MIR:2 40
+    6400544: 3.25 Omni Wheel_MIR:2 41
+    6400546: 3.25 Omni Wheel_MIR:2 42
+    6400548: 3.25 Omni Wheel_MIR:2 43
+    6400550: 3.25 Omni Wheel_MIR:2 44
+    6400552: 3.25 Omni Wheel_MIR:2 45
+    6400554: 3.25 Omni Wheel_MIR:2 46
+    6400556: 3.25 Omni Wheel_MIR:2 47
+    6400558: 3.25 Omni Wheel_MIR:2 48
+    6400560: 3.25 Omni Wheel_MIR:2 49
+    6400562: 3.25 Omni Wheel_MIR:2 5
+    6400564: 3.25 Omni Wheel_MIR:2 50
+    6400566: 3.25 Omni Wheel_MIR:2 51
+    6400568: 3.25 Omni Wheel_MIR:2 52
+    6400570: 3.25 Omni Wheel_MIR:2 53
+    6400572: 3.25 Omni Wheel_MIR:2 54
+    6400574: 3.25 Omni Wheel_MIR:2 55
+    6400576: 3.25 Omni Wheel_MIR:2 56
+    6400578: 3.25 Omni Wheel_MIR:2 57
+    6400580: 3.25 Omni Wheel_MIR:2 58
+    6400582: 3.25 Omni Wheel_MIR:2 59
+    6400584: 3.25 Omni Wheel_MIR:2 6
+    6400586: 3.25 Omni Wheel_MIR:2 60
+    6400588: 3.25 Omni Wheel_MIR:2 61
+    6400590: 3.25 Omni Wheel_MIR:2 62
+    6400592: 3.25 Omni Wheel_MIR:2 63
+    6400594: 3.25 Omni Wheel_MIR:2 64
+    6400596: 3.25 Omni Wheel_MIR:2 65
+    6400598: 3.25 Omni Wheel_MIR:2 66
+    6400600: 3.25 Omni Wheel_MIR:2 67
+    6400602: 3.25 Omni Wheel_MIR:2 7
+    6400604: 3.25 Omni Wheel_MIR:2 8
+    6400606: 3.25 Omni Wheel_MIR:2 9
+    6400608: 5x10 C-Channel:1
+    6400610: 5x10 C-Channel:2
+    6400612: 5x15 C-Channel:1
+    6400614: 5x35 C-Channel:1
+    6400616: 5x35 C-Channel:2
+    6400618: BEARING-BLOCK:1
+    6400620: BEARING-BLOCK:2
+    6400622: BEARING-FLAT:1
+    6400624: BEARING-FLAT:10
+    6400626: BEARING-FLAT:11
+    6400628: BEARING-FLAT:12
+    6400630: BEARING-FLAT:13
+    6400632: BEARING-FLAT:14
+    6400634: BEARING-FLAT:15
+    6400636: BEARING-FLAT:16
+    6400638: BEARING-FLAT:17
+    6400640: BEARING-FLAT:18
+    6400642: BEARING-FLAT:19
+    6400644: BEARING-FLAT:2
+    6400646: BEARING-FLAT:20
+    6400648: BEARING-FLAT:21
+    6400650: BEARING-FLAT:3
+    6400652: BEARING-FLAT:4
+    6400654: BEARING-FLAT:5
+    6400656: BEARING-FLAT:6
+    6400658: BEARING-FLAT:7
+    6400660: BEARING-FLAT:8
+    6400662: BEARING-FLAT:9
+    6400664: BEARING-FLAT_MIR1:1
+    6400666: BEARING-FLAT_MIR1:2
+    6400668: BEARING-FLAT_MIR1:3
+    6400670: BEARING-FLAT_MIR1:4
+    6400672: BEARING-FLAT_MIR:1
+    6400674: BEARING-FLAT_MIR:2
+    6400676: BEARING-FLAT_MIR:3
+    6400678: BEARING-FLAT_MIR:4
+    6400680: C-Channel Coupler Gusset:1
+    6400682: C-Channel Coupler Gusset:2
+    6400684: High Strength 12 Tooth Gear:1
+    6400686: High Strength 12 Tooth Gear:1 1
+    6400688: High Strength 12 Tooth Gear_MIR:1
+    6400690: High Strength 12 Tooth Gear_MIR:1 1
+    6400692: HS-GEAR-36TOOTH:1
+    6400694: HS-GEAR-36TOOTH_MIR:1
+    6400696: HS-GEAR-60TOOTH:1
+    6400698: HS-GEAR-60TOOTH:2
+    6400700: HS-GEAR-84TOOTH:1
+    6400702: HS-GEAR-84TOOTH:2
+    6400704: HS-GEAR-84TOOTH_MIR:1
+    6400706: Motor 393:1 1
+    6400708: Motor 393:1 2
+    6400710: Motor 393:1 3
+    6400712: Motor 393:2 1
+    6400714: Motor 393:2 2
+    6400716: Motor 393:2 3
+    6400718: Motor 393:3 1
+    6400720: Motor 393:3 2
+    6400722: Motor 393:3 3
+    6400724: Motor 393:4 1
+    6400726: Motor 393:4 2
+    6400728: Motor 393:4 3
+    6400730: Motor 393:5 1
+    6400732: Motor 393:5 2
+    6400734: Motor 393:5 3
+    6400736: Motor 393:6 1
+    6400738: Motor 393:6 2
+    6400740: Motor 393:6 3
+    6400742: Motor 393_MIR1:1 1
+    6400744: Motor 393_MIR1:1 2
+    6400746: Motor 393_MIR1:1 3
+    6400748: Motor 393_MIR1:2 1
+    6400750: Motor 393_MIR1:2 2
+    6400752: Motor 393_MIR1:2 3
+    6400754: Motor 393_MIR:1 1
+    6400756: Motor 393_MIR:1 2
+    6400758: Motor 393_MIR:1 3
+    6400760: Motor 393_MIR:2 1
+    6400762: Motor 393_MIR:2 2
+    6400764: Motor 393_MIR:2 3
+    6400766: SPACER-0500-0125:1
+    6400768: SPACER-0500-0125:2
+    6400770: SPACER-0500-0125:3
+    6400772: SPACER-0500-0125:4
+    6400774: SPACER-0500-0125:5
+    6400776: SPACER-0500-0125:6
+    6400778: SPACER-0500-0125:7
+    6400780: SPACER-0500-0125:8
+    6400782: SPACER-0500-0500:1
+    6400784: SPACER-0500-0500:2
+    6400786: SPACER-0500-0500:3
+    6400788: SPACER-0500-0500:4
+    6400790: Standoff 2 in:1
+    6400792: Standoff 2 in:2
+    6400794: VEX-60-TOOTH-GEAR:1
+    6400796: VEX-60-TOOTH-GEAR:2
+    6400798: VEX-60-TOOTH-GEAR_MIR:1
+    6400800: VEX-60-TOOTH-GEAR_MIR:2
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 3
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
