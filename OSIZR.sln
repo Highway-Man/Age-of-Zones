@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2017
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OSIZR", "OSIZR.csproj", "{16E10E7E-9FC5-A9F8-E555-906A6DBCCF96}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OSIZR.Editor", "OSIZR.Editor.csproj", "{1F5221A5-1A29-592A-9471-6D38CC3EB667}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +15,10 @@ Global
 		{16E10E7E-9FC5-A9F8-E555-906A6DBCCF96}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{16E10E7E-9FC5-A9F8-E555-906A6DBCCF96}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{16E10E7E-9FC5-A9F8-E555-906A6DBCCF96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F5221A5-1A29-592A-9471-6D38CC3EB667}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F5221A5-1A29-592A-9471-6D38CC3EB667}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F5221A5-1A29-592A-9471-6D38CC3EB667}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F5221A5-1A29-592A-9471-6D38CC3EB667}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
