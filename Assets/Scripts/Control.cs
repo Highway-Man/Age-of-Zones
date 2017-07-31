@@ -59,7 +59,7 @@ public class Control : MonoBehaviour {
         }
         else
         {
-            motorControlValue[5] = -.15f;
+            motorControlValue[5] = -.05f;
         }
 
         if (Input.GetKey("w"))
@@ -85,7 +85,7 @@ public class Control : MonoBehaviour {
         }
         else
         {
-            motorControlValue[7] = -.01f;
+            motorControlValue[7] = 0f;
         }
     }
 }
