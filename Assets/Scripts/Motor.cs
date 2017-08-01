@@ -32,7 +32,7 @@ public class Motor : MonoBehaviour {
     private void FixedUpdate()
     {
         localAngularVelocity = transform.InverseTransformVector(rb.angularVelocity);
-        if (Mathf.Abs(rb.angularVelocity.x) < maxW)
+        if (Mathf.Abs(rb.angularVelocity.x) < maxW)//needs generalization
             torque = axis.normalized * (Control.motorControlValue[motorPort] * maxTorque - Vector3.Dot(localAngularVelocity,axis) * maxTorque / maxW);
         else
             torque = new Vector3(0,0,0);
