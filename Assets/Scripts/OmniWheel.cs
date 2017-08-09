@@ -6,6 +6,7 @@ public class OmniWheel : MonoBehaviour {
 
     public int motorPort;
     public float gearRatio;
+    public int direction;
 
     private WheelCollider wheel;
     private float maxTorque, maxRpm, magicMotorTorque;
@@ -41,7 +42,7 @@ public class OmniWheel : MonoBehaviour {
 
         //float scaledTorque = Control.motorControlValue[motorPort] * torque;
 
-        wheel.motorTorque = magicMotorTorque * Control.motorControlValue[motorPort];
+        wheel.motorTorque = magicMotorTorque * Control.motorControlValue[motorPort] * direction;
 
         //ApplyLocalPositionToVisuals(wheel);
     }

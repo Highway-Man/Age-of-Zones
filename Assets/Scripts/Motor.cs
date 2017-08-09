@@ -6,12 +6,14 @@ public class Motor : MonoBehaviour {
 
     public float gearRatio;
     public int motorPort;
+    public int direction;
+    public int limit, offset;
 
     private Rigidbody rb;
     private HingeJoint hj;
 
     private Vector3 axis, localAngularVelocity, scaledTorque, torque;
-    private float maxTorque, maxRpm, maxW;
+    private float maxTorque, maxRpm, maxW, localRotation;
 
 	// Use this for initialization
 	void Start () {
@@ -25,19 +27,29 @@ public class Motor : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-        //Debug.LogFormat("{0}, {1}",localAngularVelocity, scaledTorque);
-
+        //Debug.LogFormat("{0}, {1}",localAngularVelocity, Time.fixedDeltaTime);
+        Debug.LogFormat("ang: {0}", localRotation);
     }
 
     private void FixedUpdate()
     {
-        localAngularVelocity = transform.InverseTransformVector(rb.angularVelocity);
-        if (Mathf.Abs(rb.angularVelocity.x) < maxW)//needs generalization
-            torque = axis.normalized * (Control.motorControlValue[motorPort] * maxTorque - Vector3.Dot(localAngularVelocity,axis) * maxTorque / maxW);
-        else
-            torque = new Vector3(0,0,0);
+        localRotation = hj.angle+offset;
+        if (localRotation > 180)
+            localRotation = localRotation-360;
 
-        scaledTorque =  torque;
+        localAngularVelocity = transform.InverseTransformVector(rb.angularVelocity);
+        float localAngularVelocityScalar = Vector3.Dot(localAngularVelocity, axis);
+            torque = axis.normalized * (Control.motorControlValue[motorPort]*direction * maxTorque - localAngularVelocityScalar * maxTorque / maxW);
+
+        if (localRotation > limit)
+        {
+            scaledTorque = axis.normalized * -maxTorque;
+        }
+        else if (localRotation < -limit)
+            scaledTorque = axis.normalized * maxTorque;
+        else
+            scaledTorque = torque;
+
 
         rb.AddRelativeTorque(scaledTorque);
 
